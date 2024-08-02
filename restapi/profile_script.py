@@ -1,3 +1,8 @@
+"""
+Note: at the moment, to run this script, you need sudo privileges to restart apache2 service.
+use at your own risk.
+"""
+
 import requests
 import time
 
@@ -140,7 +145,7 @@ class Performance:
             with open(self.wsgi_path, "w") as f:
                 f.write(
                     wsgi_content.replace(
-                        "load_profile('')", f"load_profile('{data_base}')"
+                        'load_profile("")', f"load_profile('{data_base}')"
                     )
                 )
             os.system("sudo systemctl restart apache2.service")
@@ -158,17 +163,22 @@ class Performance:
         """
         Write the performance data to a file
         """
-        with open(f"performance.txt", "w") as f:
+        with open(f"results/restapi.txt", "w") as f:
             for data_base in self.data_base_type:
                 f.write(f"### Performance for {data_base}\n")
                 f.write(results_[data_base].round(3).to_string())
                 f.write("\n\n\n")
 
+        for data_base in self.data_base_type:
+            results_[data_base].round(3).to_csv(f"results/restapi_{data_base}.csv")
+
 
 """
 Main function
 """
-p = Performance(config_file="config.json", endpoints_file="endpoints.json")
+p = Performance(
+    config_file="restapi/config.json", endpoints_file="restapi/endpoints.json"
+)
 
 results = p.compare_performance(print_results=True)
 p.write_performance_to_file(results)
