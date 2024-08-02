@@ -1,0 +1,30 @@
+{
+  "general_endpoints": [
+    "/api/v4/nodes",
+    "/api/v4/nodes/full_types",
+    "/api/v4/nodes/page/1?perpage=25&full_type=\"data.%|\"&orderby=-ctime",
+    "/api/v4/nodes/download_formats",
+    "/api/v4/users",
+    "/api/v4/server",
+    "/api/v4/nodes/full_types_count",
+    "/api/v4/nodes/statistics"
+  ],
+  "node_specific_endpoints": {
+    "all": [
+      "/api/v4/nodes/<id>?attributes=true",
+      "/api/v4/nodes/<id>/links/incoming",
+      "/api/v4/nodes/<id>/links/outgoing",
+      "/api/v4/nodes/<id>/links/tree?in_limit=10&out_limit=10"
+    ],
+    "download": ["/api/v4/nodes/<id>/download?download_format=<download_format>"],
+    "calcjob": [
+      "/api/v4/calcjobs/<id>/input_files",
+      "/api/v4/calcjobs/<id>/output_files"
+    ],
+    "file repository": [
+      "/api/v4/nodes/<id>/repo/contents?filename=\"aiida.in\"",
+      "/api/v4/nodes/<id>/repo/contents?filename=\"aiida.out\""
+    ]
+  }
+}
+

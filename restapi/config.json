@@ -1,0 +1,7 @@
+{
+    "base_url": "http://localhost/quicksetup",
+    "id_limit": 10,
+    "data_base_type": ["psql_dos", "sqlitzip-0"],
+    "wsgi_path": "/home/khosra_a/development/Other_tasks/sqlite_zip_materials_cloud/aiida--.wsgi",
+    "wsgi_template": "wsgi_template.wsgi"
+}

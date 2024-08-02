@@ -1,0 +1,42 @@
+### Performance for psql_dos
+                                                                    ncalls  ave_time_per_call(ms)  total_time(s)  Error: EndpointNotAvailable
+/api/v4/nodes                                                         11.0                183.605          2.020                          0.0
+/api/v4/nodes/download_formats                                        11.0                 31.060          0.342                          0.0
+/api/v4/nodes/full_types                                              10.0                 56.339          0.563                          0.0
+/api/v4/nodes/page/1?perpage=25&full_type="data.%|"&orderby=-ctime    10.0                 98.974          0.990                          0.0
+/api/v4/users                                                         10.0                 39.252          0.393                          0.0
+/api/v4/server                                                        10.0                  3.319          0.033                          0.0
+/api/v4/nodes/full_types_count                                        10.0                 74.119          0.741                          0.0
+/api/v4/nodes/statistics                                              10.0                 78.026          0.780                          0.0
+/api/v4/nodes/<id>?attributes=true                                    10.0                 45.504          0.455                          0.0
+/api/v4/nodes/<id>/links/incoming                                     10.0                 47.286          0.473                          0.0
+/api/v4/nodes/<id>/links/outgoing                                     10.0                 49.732          0.497                          0.0
+/api/v4/nodes/<id>/links/tree?in_limit=10&out_limit=10                10.0                 91.728          0.917                          0.0
+/api/v4/nodes/<id>                                                    10.0                 50.014          0.500                          0.0
+/api/v4/nodes/<id>/download?download_format=chemdoodle                10.0                 49.714          0.497                          0.0
+/api/v4/nodes/<id>/download?download_format=cif                        0.0                  0.000          0.000                         10.0
+/api/v4/nodes/<id>/download?download_format=xsf                       10.0                 52.397          0.524                          0.0
+/api/v4/nodes/<id>/download?download_format=xyz                       10.0                 61.081          0.611                          0.0
+
+
+### Performance for sqlitzip-0
+                                                                    ncalls  ave_time_per_call(ms)  total_time(s)  Error: EndpointNotAvailable
+/api/v4/nodes                                                         11.0                274.027          3.014                          0.0
+/api/v4/nodes/download_formats                                        11.0                 40.549          0.446                          0.0
+/api/v4/nodes/full_types                                              10.0                 66.385          0.664                          0.0
+/api/v4/nodes/page/1?perpage=25&full_type="data.%|"&orderby=-ctime    10.0                136.873          1.369                          0.0
+/api/v4/users                                                         10.0                 35.176          0.352                          0.0
+/api/v4/server                                                        10.0                  3.094          0.031                          0.0
+/api/v4/nodes/full_types_count                                        10.0                 63.200          0.632                          0.0
+/api/v4/nodes/statistics                                               0.0                  0.000          0.000                         10.0
+/api/v4/nodes/<id>?attributes=true                                    10.0                 52.681          0.527                          0.0
+/api/v4/nodes/<id>/links/incoming                                     10.0                 42.205          0.422                          0.0
+/api/v4/nodes/<id>/links/outgoing                                     10.0                 42.791          0.428                          0.0
+/api/v4/nodes/<id>/links/tree?in_limit=10&out_limit=10                10.0                 77.260          0.773                          0.0
+/api/v4/nodes/<id>                                                    10.0                 38.789          0.388                          0.0
+/api/v4/nodes/<id>/download?download_format=chemdoodle                10.0                 45.482          0.455                          0.0
+/api/v4/nodes/<id>/download?download_format=cif                        0.0                  0.000          0.000                         10.0
+/api/v4/nodes/<id>/download?download_format=xsf                       10.0                 49.649          0.496                          0.0
+/api/v4/nodes/<id>/download?download_format=xyz                       10.0                 44.449          0.444                          0.0
+
+
