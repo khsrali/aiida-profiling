@@ -1,0 +1,46 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+        with:
+          ref: 'main'
+          fetch-depth: 0
+
+      - name: Setup GitHub CLI
+        run: |
+          gh auth login --with-token <<< "${{ secrets.GITHUB_TOKEN }}"
+
+      - name: Close Previous PRs and Delete Branches
+        run: |
+          gh pr list --state open --json number,title,headRefName --jq '.[] | select(.title=="Update README with latest graphs") | {number: .number, branch: .headRefName}' | while read pr; do
+            number=$(echo $pr | jq '.number')
+            branch=$(echo $pr | jq -r '.branch')
+            gh pr close $number
+            git push origin --delete $branch
+          done
+
+      - name: Update README
+        run: |
+          python3 scripts/generate_doc_from_graphs.py
+
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y%m%d%H%M%S')"
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Update README with latest graphs"
+          title: "Update README with latest graphs"
+          body: "This PR updates the README with the latest performance graphs."
+          branch: "update-readme-${{ steps.date.outputs.date }}"
