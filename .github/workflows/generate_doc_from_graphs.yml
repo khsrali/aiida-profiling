@@ -1,0 +1,33 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Update README
+        run: |
+          echo -e "## Performance Graphs\n" > temp.md
+          for filepath in results/performance_graphs/*; do
+            filename=$(basename $filepath)
+            echo -e "### $filename\n" >> temp.md
+            echo -e "![]($filepath)\n" >> temp.md
+          done
+          sed -i '/## Performance Graphs/,/## End Performance Graphs/{//!d}' README.md
+          sed -i '/## Performance Graphs/r temp.md' README.md
+          rm temp.md
+
+      - name: Commit and push if it changed
+        run: |
+          git diff
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -am "Update README with latest graphs" || exit 0
+          git push
