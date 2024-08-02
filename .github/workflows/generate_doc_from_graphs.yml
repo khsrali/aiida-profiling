@@ -19,9 +19,14 @@ jobs:
         run: |
           gh auth login --with-token <<< "${{ secrets.GITHUB_TOKEN }}"
 
-      - name: Close Previous PRs
+      - name: Close Previous PRs and Delete Branches
         run: |
-          gh pr list --state open --json number,title --jq '.[] | select(.title=="Update README with latest graphs") | .number' | xargs -I {} gh pr close {}
+          gh pr list --state open --json number,title,headRefName --jq '.[] | select(.title=="Update README with latest graphs") | {number: .number, branch: .headRefName}' | while read pr; do
+            number=$(echo $pr | jq '.number')
+            branch=$(echo $pr | jq -r '.branch')
+            gh pr close $number
+            git push origin --delete $branch
+          done
 
       - name: Update README
         run: |
