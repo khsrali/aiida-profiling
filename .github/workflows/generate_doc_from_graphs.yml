@@ -17,20 +17,7 @@ jobs:
 
       - name: Update README
         run: |
-          for filepath in results/performance_graphs/*.png; do
-            filename=$(basename $filepath .png)
-            echo -e "### $filename\n" >> temp.md
-            echo -e "![]($filepath)\n" >> temp.md
-          
-            # Add table from associated text file
-            echo -e "| Endpoint | Average Time per Call (ms) |\n| --- | --- |" >> temp.md
-            while IFS=$'\t' read -r endpoint time; do
-              echo -e "| $endpoint | $time |" >> temp.md
-            done < "results/performance_graphs/${filename}_labels.txt"
-          done
-          sed -i '/## Performance Graphs/,/## End Performance Graphs/{//!d}' README.md
-          sed -i '/## Performance Graphs/r temp.md' README.md
-          rm temp.md
+          python3 scripts/generate_doc_from_graphs.py
 
       - name: Get current date
         id: date

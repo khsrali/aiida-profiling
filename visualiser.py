@@ -54,5 +54,6 @@ for initial_name, group_files in file_groups.items():
 
     # Write the index labels to a file
     with open(f"results/performance_graphs/{initial_name}_labels.txt", "w") as f:
+        f.write("Endpoint\tAverage Time per Call (ms)\n")
         for x_label, endpoint in zip(df.index, df[df.columns[0]]):
             f.write(f"{x_label}\t {endpoint}\n")

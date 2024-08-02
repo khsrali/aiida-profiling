@@ -1,3 +1,4 @@
+Endpoint	Average Time per Call (ms)
 0	 /api/v4/nodes
 1	 /api/v4/nodes/download_formats
 2	 /api/v4/nodes/full_types
