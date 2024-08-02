@@ -1,10 +1,10 @@
-name: Update README with Performance Graphs
+name: Update README
 
 on:
   push:
     branches:
       - main
-      
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -14,22 +14,6 @@ jobs:
         with:
           ref: 'main'
           fetch-depth: 0
-
-      - name: Install GitHub CLI
-        run: |
-          sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-key C99B11DEB97541F0
-          sudo apt-add-repository https://cli.github.com/packages
-          sudo apt update
-          sudo apt install gh
-
-      - name: Close old PRs
-        run: |
-          prs=$(gh pr list --base main --label "auto-update-readme" --json number,state -q '.data.repository.pullRequests.nodes[] | select(.state=="OPEN") | .number')
-          for pr in $prs; do
-            gh pr close $pr
-          done
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Update README
         run: |
@@ -61,4 +45,3 @@ jobs:
           title: "Update README with latest graphs"
           body: "This PR updates the README with the latest performance graphs."
           branch: "update-readme-${{ steps.date.outputs.date }}"
-          labels: "auto-update-readme"
