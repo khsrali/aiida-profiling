@@ -130,6 +130,7 @@ class Performance:
                         # print(f"Downloaded node with format {download_format}")#: {response.text}")
 
         df = pd.DataFrame(l.log_timing).T
+        df.index.name = "Endpoints"
 
         return df
 

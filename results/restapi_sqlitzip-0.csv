@@ -1,18 +1,18 @@
-,ncalls,ave_time_per_call(ms),total_time(s),Error: EndpointNotAvailable
-/api/v4/nodes,11.0,282.252,3.105,0.0
-/api/v4/nodes/download_formats,11.0,29.214,0.321,0.0
-/api/v4/nodes/full_types,10.0,71.842,0.718,0.0
-"/api/v4/nodes/page/1?perpage=25&full_type=""data.%|""&orderby=-ctime",10.0,137.569,1.376,0.0
-/api/v4/users,10.0,25.884,0.259,0.0
-/api/v4/server,10.0,2.947,0.029,0.0
-/api/v4/nodes/full_types_count,10.0,70.979,0.71,0.0
+Endpoints,ncalls,ave_time_per_call(ms),total_time(s),Error: EndpointNotAvailable
+/api/v4/nodes,11.0,271.804,2.99,0.0
+/api/v4/nodes/download_formats,11.0,32.729,0.36,0.0
+/api/v4/nodes/full_types,10.0,61.498,0.615,0.0
+"/api/v4/nodes/page/1?perpage=25&full_type=""data.%|""&orderby=-ctime",10.0,135.7,1.357,0.0
+/api/v4/users,10.0,31.057,0.311,0.0
+/api/v4/server,10.0,3.061,0.031,0.0
+/api/v4/nodes/full_types_count,10.0,65.711,0.657,0.0
 /api/v4/nodes/statistics,0.0,0.0,0.0,10.0
-/api/v4/nodes/<id>?attributes=true,10.0,52.129,0.521,0.0
-/api/v4/nodes/<id>/links/incoming,10.0,41.567,0.416,0.0
-/api/v4/nodes/<id>/links/outgoing,10.0,46.151,0.462,0.0
-/api/v4/nodes/<id>/links/tree?in_limit=10&out_limit=10,10.0,83.97,0.84,0.0
-/api/v4/nodes/<id>,10.0,44.775,0.448,0.0
-/api/v4/nodes/<id>/download?download_format=chemdoodle,10.0,45.997,0.46,0.0
+/api/v4/nodes/<id>?attributes=true,10.0,53.752,0.538,0.0
+/api/v4/nodes/<id>/links/incoming,10.0,39.27,0.393,0.0
+/api/v4/nodes/<id>/links/outgoing,10.0,27.149,0.271,0.0
+/api/v4/nodes/<id>/links/tree?in_limit=10&out_limit=10,10.0,70.011,0.7,0.0
+/api/v4/nodes/<id>,10.0,46.431,0.464,0.0
+/api/v4/nodes/<id>/download?download_format=chemdoodle,10.0,46.644,0.466,0.0
 /api/v4/nodes/<id>/download?download_format=cif,0.0,0.0,0.0,10.0
-/api/v4/nodes/<id>/download?download_format=xsf,10.0,54.449,0.544,0.0
-/api/v4/nodes/<id>/download?download_format=xyz,10.0,49.461,0.495,0.0
+/api/v4/nodes/<id>/download?download_format=xsf,10.0,47.636,0.476,0.0
+/api/v4/nodes/<id>/download?download_format=xyz,10.0,49.213,0.492,0.0

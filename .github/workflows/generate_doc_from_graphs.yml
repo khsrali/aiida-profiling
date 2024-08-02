@@ -1,10 +1,10 @@
-name: Update README
+name: Update README with Performance Graphs
 
 on:
   push:
     branches:
       - main
-
+      
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -15,13 +15,35 @@ jobs:
           ref: 'main'
           fetch-depth: 0
 
+      - name: Install GitHub CLI
+        run: |
+          sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-key C99B11DEB97541F0
+          sudo apt-add-repository https://cli.github.com/packages
+          sudo apt update
+          sudo apt install gh
+
+      - name: Close old PRs
+        run: |
+          prs=$(gh pr list --base main --label "auto-update-readme" --json number,state -q '.data.repository.pullRequests.nodes[] | select(.state=="OPEN") | .number')
+          for pr in $prs; do
+            gh pr close $pr
+          done
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Update README
         run: |
           echo -e "## Performance Graphs\n" > temp.md
-          for filepath in results/performance_graphs/*; do
-            filename=$(basename $filepath)
+          for filepath in results/performance_graphs/*.png; do
+            filename=$(basename $filepath .png)
             echo -e "### $filename\n" >> temp.md
             echo -e "![]($filepath)\n" >> temp.md
+          
+            # Add table from associated text file
+            echo -e "| Endpoint | Average Time per Call (ms) |\n| --- | --- |\n" >> temp.md
+            while IFS=$'\t' read -r endpoint time; do
+              echo -e "| $endpoint | $time |\n" >> temp.md
+            done < "results/performance_graphs/${filename}_labels.txt"
           done
           sed -i '/## Performance Graphs/,/## End Performance Graphs/{//!d}' README.md
           sed -i '/## Performance Graphs/r temp.md' README.md
@@ -39,3 +61,4 @@ jobs:
           title: "Update README with latest graphs"
           body: "This PR updates the README with the latest performance graphs."
           branch: "update-readme-${{ steps.date.outputs.date }}"
+          labels: "auto-update-readme"

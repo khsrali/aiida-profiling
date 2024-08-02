@@ -30,7 +30,7 @@ for initial_name, group_files in file_groups.items():
         # Read the file
         df = pd.read_csv(file)
 
-        # Plot the total_time(s) column
+        # ave_time_per_call(ms) column
         ax.bar(
             np.arange(len(df)) + i * width,
             df["ave_time_per_call(ms)"],
@@ -50,4 +50,9 @@ for initial_name, group_files in file_groups.items():
     )
     plt.tight_layout()
     plt.savefig(f"results/performance_graphs/{initial_name}.png")
-    plt.show()
+    # plt.show()
+
+    # Write the index labels to a file
+    with open(f"results/performance_graphs/{initial_name}_labels.txt", "w") as f:
+        for x_label, endpoint in zip(df.index, df[df.columns[0]]):
+            f.write(f"{x_label}\t {endpoint}\n")

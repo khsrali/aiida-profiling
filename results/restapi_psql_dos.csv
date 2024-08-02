@@ -1,18 +1,18 @@
-,ncalls,ave_time_per_call(ms),total_time(s),Error: EndpointNotAvailable
-/api/v4/nodes,11.0,196.945,2.166,0.0
-/api/v4/nodes/download_formats,11.0,35.295,0.388,0.0
-/api/v4/nodes/full_types,10.0,70.095,0.701,0.0
-"/api/v4/nodes/page/1?perpage=25&full_type=""data.%|""&orderby=-ctime",10.0,100.982,1.01,0.0
-/api/v4/users,10.0,41.751,0.418,0.0
-/api/v4/server,10.0,3.408,0.034,0.0
-/api/v4/nodes/full_types_count,10.0,90.412,0.904,0.0
-/api/v4/nodes/statistics,10.0,89.417,0.894,0.0
-/api/v4/nodes/<id>?attributes=true,10.0,54.829,0.548,0.0
-/api/v4/nodes/<id>/links/incoming,10.0,44.377,0.444,0.0
-/api/v4/nodes/<id>/links/outgoing,10.0,38.278,0.383,0.0
-/api/v4/nodes/<id>/links/tree?in_limit=10&out_limit=10,10.0,99.046,0.99,0.0
-/api/v4/nodes/<id>,10.0,52.759,0.528,0.0
-/api/v4/nodes/<id>/download?download_format=chemdoodle,10.0,49.666,0.497,0.0
+Endpoints,ncalls,ave_time_per_call(ms),total_time(s),Error: EndpointNotAvailable
+/api/v4/nodes,11.0,179.28,1.972,0.0
+/api/v4/nodes/download_formats,11.0,28.494,0.313,0.0
+/api/v4/nodes/full_types,10.0,57.337,0.573,0.0
+"/api/v4/nodes/page/1?perpage=25&full_type=""data.%|""&orderby=-ctime",10.0,93.582,0.936,0.0
+/api/v4/users,10.0,38.049,0.38,0.0
+/api/v4/server,10.0,3.004,0.03,0.0
+/api/v4/nodes/full_types_count,10.0,78.092,0.781,0.0
+/api/v4/nodes/statistics,10.0,83.875,0.839,0.0
+/api/v4/nodes/<id>?attributes=true,10.0,51.762,0.518,0.0
+/api/v4/nodes/<id>/links/incoming,10.0,48.143,0.481,0.0
+/api/v4/nodes/<id>/links/outgoing,10.0,50.958,0.51,0.0
+/api/v4/nodes/<id>/links/tree?in_limit=10&out_limit=10,10.0,87.77,0.878,0.0
+/api/v4/nodes/<id>,10.0,46.143,0.461,0.0
+/api/v4/nodes/<id>/download?download_format=chemdoodle,10.0,43.339,0.433,0.0
 /api/v4/nodes/<id>/download?download_format=cif,0.0,0.0,0.0,10.0
-/api/v4/nodes/<id>/download?download_format=xsf,10.0,53.132,0.531,0.0
-/api/v4/nodes/<id>/download?download_format=xyz,10.0,74.235,0.742,0.0
+/api/v4/nodes/<id>/download?download_format=xsf,10.0,54.131,0.541,0.0
+/api/v4/nodes/<id>/download?download_format=xyz,10.0,73.244,0.732,0.0
