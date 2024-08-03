@@ -1,4 +1,4 @@
-# aiida-profiling
+# profiling-aiida
 
 This repository is a beta that profiles various aspects of `aiida-*` repositories.
 
