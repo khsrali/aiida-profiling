@@ -1,0 +1,1215 @@
+Thu Aug  8 15:45:01 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get-8dd1b5e6-c551-474e-83d7-67999b5f25db.prof
+Thu Aug  8 15:43:24 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/open-d1dfa556-3b21-4646-a869-6e7be5e12659.prof
+Thu Aug  8 15:43:26 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get_jobs-821665d7-1a6b-4fcf-8fd3-dcde2fcfec18.prof
+Thu Aug  8 15:45:26 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get-c6c79480-05dd-429e-b6c3-a560d0e6f53c.prof
+Thu Aug  8 15:42:59 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/open-66f7a8fa-d85a-45b7-9b27-52997990fa4b.prof
+Thu Aug  8 15:42:26 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/put-3a6664dc-d01e-416b-b649-f8298e82adce.prof
+Thu Aug  8 15:42:34 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/put-68f66a84-b30c-44d4-bb7e-06727c74a6c7.prof
+Thu Aug  8 15:43:27 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/put-40d44b16-fc07-4658-92d9-5fcdf2f63bd5.prof
+Thu Aug  8 15:44:09 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/put-d4576f30-3e52-4167-b342-00b598a7804a.prof
+Thu Aug  8 15:44:51 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/submit_job-35dbbd85-934f-435a-8af1-bc62a416e7e2.prof
+Thu Aug  8 15:43:02 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/put-0548872d-ba29-4ea6-9563-750628824022.prof
+Thu Aug  8 15:44:47 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/submit_job-94c3b4bf-07c6-4d40-b5c1-84d2934c38df.prof
+Thu Aug  8 15:44:11 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-2c9638df-26eb-4414-9c51-555ee2140727.prof
+Thu Aug  8 15:44:12 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-1e1c532d-df4a-4be0-be67-3c709352110d.prof
+Thu Aug  8 15:41:54 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/mkdir-27c77037-a079-4cd6-9d90-e96e7abf0261.prof
+Thu Aug  8 15:43:15 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-74f687cb-0066-44e8-8450-995b00c4b204.prof
+Thu Aug  8 15:43:24 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/open-29c4ef34-3959-4f9e-a6ae-6c354f97135f.prof
+Thu Aug  8 15:43:14 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/mkdir-5023ca6c-2acf-43df-9335-b3b09655cfeb.prof
+Thu Aug  8 15:45:56 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get-e4e986da-d8d6-4366-9ebb-67c4172a8da5.prof
+Thu Aug  8 15:45:17 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-f0c8f972-3f14-40cf-b821-728e7afb3713.prof
+Thu Aug  8 15:42:03 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-610a9a5c-c02c-424e-9e32-0fdddc87445a.prof
+Thu Aug  8 15:45:49 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get-08f19d24-10d7-4661-986c-5a86624b2603.prof
+Thu Aug  8 15:44:56 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/close-ea67d604-0281-4494-aa0d-df3b17bdbca4.prof
+Thu Aug  8 15:44:36 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/put-419d6085-c67a-4b02-8035-44ccf0cb748a.prof
+Thu Aug  8 15:43:47 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/getcwd-57a3f70e-c349-4336-ad8a-ccfef608d35f.prof
+Thu Aug  8 15:44:27 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-43125451-e033-4688-b06e-e7a910805a64.prof
+Thu Aug  8 15:43:37 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-7ea13b58-dce2-41c0-8cc0-155a8d52a20b.prof
+Thu Aug  8 15:45:11 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get-b4d68fb6-6ee6-4ca4-aa8f-3565e52886b9.prof
+Thu Aug  8 15:42:27 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/put-7c47e827-0e71-40b9-9e25-a94f36fb0593.prof
+Thu Aug  8 15:45:39 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get_jobs-8fd155e3-256e-47de-b166-2f77dd161e0c.prof
+Thu Aug  8 15:42:45 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-fee889f7-4266-4b23-a66f-5d6267f13b86.prof
+Thu Aug  8 15:41:59 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/mkdir-bef7f426-b671-4f7e-a202-cb5c8bbe62bb.prof
+Thu Aug  8 15:43:00 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get_jobs-96304169-d113-48c6-bc65-4772db2e5ac4.prof
+Thu Aug  8 15:42:47 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-e850e314-bbae-4fe7-b054-ce5df38b2b3e.prof
+Thu Aug  8 15:44:28 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/mkdir-7f90465f-e568-41e6-a40d-a2b4a1e0fccb.prof
+Thu Aug  8 15:44:38 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/close-874fab0e-29a9-4425-9535-991e54026ffb.prof
+Thu Aug  8 15:42:48 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/close-141154f4-a176-4d54-a116-15a4678dc3d9.prof
+Thu Aug  8 15:42:05 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-42da6aee-352b-4f56-87ed-d6ff698cd3a7.prof
+Thu Aug  8 15:45:27 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-6d24b7d3-e09d-4bce-9089-2de61d393e3a.prof
+Thu Aug  8 15:43:26 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/open-88d7abcd-5d0a-4805-9ed7-6faae745efc5.prof
+Thu Aug  8 15:45:33 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get-dbe647e1-998b-4ecb-965a-f4d2fa408473.prof
+Thu Aug  8 15:44:56 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get_jobs-293562e3-c40e-47ef-8387-44564345c66d.prof
+Thu Aug  8 15:44:19 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/put-05e37a43-82b8-4721-bf9b-14a77a2dba84.prof
+Thu Aug  8 15:42:46 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-c6784278-9b39-4510-9f15-a9bcab5cf6b1.prof
+Thu Aug  8 15:43:14 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get_jobs-f040b821-2cf9-4e21-8f58-e3770c798f0e.prof
+Thu Aug  8 15:45:14 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get-9f5cf0b3-2afd-476e-9e27-b8716c2bb83b.prof
+Thu Aug  8 15:45:37 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/open-0b1a8e79-9b42-4781-aa9a-c44497063550.prof
+Thu Aug  8 15:41:53 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/mkdir-4b4edefb-13b1-4e9b-978e-ace42d4af694.prof
+Thu Aug  8 15:41:53 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-3aedbf16-8d8a-4991-ba72-6317f5e126a8.prof
+Thu Aug  8 15:43:46 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/mkdir-ce7c5128-e46f-45dc-9df9-1e3ee34005a2.prof
+Thu Aug  8 15:44:58 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-25b3e0d0-3adf-46d1-832e-3192ffc65fea.prof
+Thu Aug  8 15:45:30 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get-1747df0e-4f33-4044-9fe0-dc4e62eb2903.prof
+Thu Aug  8 15:45:04 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get-c9a4c40c-7e19-4a70-9221-f0659c3aed86.prof
+Thu Aug  8 15:41:55 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-095c4ef2-897c-4cfa-a933-abdfd8972a33.prof
+Thu Aug  8 15:44:49 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/submit_job-a1e63cb8-4b39-4c29-9a68-315cb1968c07.prof
+Thu Aug  8 15:45:16 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get-1580704e-b920-4964-b27e-aa34c0dc48ca.prof
+Thu Aug  8 15:43:52 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get-e729492a-9917-412e-a01f-d209a62c84d7.prof
+Thu Aug  8 15:42:47 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/getcwd-ab95c771-5f6f-4d36-b924-e1f625d79368.prof
+Thu Aug  8 15:45:40 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-3dc5c62a-e463-439b-82b5-e02b7b7cf448.prof
+Thu Aug  8 15:44:23 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/put-bf92fb78-62cc-4782-b4c1-36bf88661e56.prof
+Thu Aug  8 15:44:05 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/put-74abf5cd-296c-4ad9-8b37-9bd8501f244b.prof
+Thu Aug  8 15:43:12 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/open-f139cbe5-d3bf-4d24-8f69-d43076278df7.prof
+Thu Aug  8 15:42:58 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/open-92ab6cbf-82e8-4a74-ba54-d488b03c4176.prof
+Thu Aug  8 15:44:51 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/close-5f367625-c217-45e2-9220-45a41dae8300.prof
+Thu Aug  8 15:42:48 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get_jobs-b4681aee-c734-48cb-a8e2-6cd86ec36d43.prof
+Thu Aug  8 15:42:01 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/mkdir-7ba664ea-26f7-44d7-94c9-18c8d96fdbbb.prof
+Thu Aug  8 15:42:45 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/close-b4c4f501-df97-40e5-9566-a3eeeac359f5.prof
+Thu Aug  8 15:44:41 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/submit_job-4b3d413e-b4f6-4a4e-8949-1e794073a1d6.prof
+Thu Aug  8 15:41:56 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-7f85f572-174c-471b-90b6-bfb789731e10.prof
+Thu Aug  8 15:45:36 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/close-686a8f07-6fd4-4697-a685-f1a4da6cad6b.prof
+Thu Aug  8 15:43:40 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-3cee2561-4d6a-4b3b-808c-1538df0dbfa4.prof
+Thu Aug  8 15:42:33 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/put-7829eea2-c901-49c9-b14c-11122b8fa7d1.prof
+Thu Aug  8 15:42:03 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/getcwd-4ef66c95-3bad-46cb-ab3c-07cccc752c3b.prof
+Thu Aug  8 15:42:48 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get_jobs-14f59526-5996-4c5a-bbf1-774e4235dcb1.prof
+Thu Aug  8 15:42:04 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-edfa6e5d-e85a-43af-9703-d50512c76d30.prof
+Thu Aug  8 15:42:00 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-0fe884c0-2592-43d9-abf4-7a747e4238d8.prof
+Thu Aug  8 15:42:46 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/open-591abb18-61e0-4452-9250-87cba4971b88.prof
+Thu Aug  8 15:42:49 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get_jobs-f3366544-aa2a-465d-a3e4-414b165decdf.prof
+Thu Aug  8 15:44:10 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-3561443c-e1c1-42b2-bb9a-c41d1942545a.prof
+Thu Aug  8 15:44:52 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/open-d9c422b3-47d3-444e-a39d-685f3c7f19ce.prof
+Thu Aug  8 15:43:44 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-59a3d466-2305-4e5c-90ae-21e2fe887097.prof
+Thu Aug  8 15:43:11 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/open-c9dfbd75-dfd3-402c-a174-2be3daa5d092.prof
+Thu Aug  8 15:43:51 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get-46eb5048-1d1c-48ea-a960-217f489329f8.prof
+Thu Aug  8 15:43:13 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get-bcc883da-8b0b-4f55-baf8-5f093a219270.prof
+Thu Aug  8 15:44:28 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-f634b75b-0534-4c51-9943-865d09b82ab3.prof
+Thu Aug  8 15:42:05 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/getcwd-a4d311ef-e018-4340-b142-f58b9e3b95c8.prof
+Thu Aug  8 15:42:41 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/put-40d2ec03-62d5-46e3-944e-77df85b2ae78.prof
+Thu Aug  8 15:44:26 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-e654d418-cbb0-4fc7-929d-bdfcb6b3ebb0.prof
+Thu Aug  8 15:42:44 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/open-649d6bcc-33c4-44d9-9876-0ec88ca268c8.prof
+Thu Aug  8 15:43:01 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/open-b2a985e4-48b2-4b21-b01a-84db62bd235e.prof
+Thu Aug  8 15:44:21 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/put-c75e5402-f3f4-4f38-b3ab-c1112c3dab0b.prof
+Thu Aug  8 15:43:19 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/getcwd-c81585e0-0363-4ca9-892c-b31a089a47e3.prof
+Thu Aug  8 15:45:53 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get-948da52b-fbdc-41e3-82bf-e7088d4302c6.prof
+Thu Aug  8 15:45:39 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/open-669458ed-78a0-463c-99b0-33936f3fa44a.prof
+Thu Aug  8 15:41:52 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-aec36907-8894-4a5b-b88c-6332331e6b1d.prof
+Thu Aug  8 15:44:38 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/put-3dc2441d-a53b-4a2d-b529-863b5adedde7.prof
+Thu Aug  8 15:44:25 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-018709ff-e5e4-47b4-b6e4-d0cf9daca8c2.prof
+Thu Aug  8 15:43:26 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/close-af350aa5-b475-432a-bf92-d6ad7e4396a8.prof
+Thu Aug  8 15:43:37 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get-44eb0796-21b2-4e7a-afea-ad3b716216c8.prof
+Thu Aug  8 15:42:42 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/open-35f9c806-73f9-43e5-a87d-b870ac4b25ab.prof
+Thu Aug  8 15:43:17 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-5fdc47e8-a7e8-4022-b071-770b4ce7a9c9.prof
+Thu Aug  8 15:42:42 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/open-43353748-afbd-4954-b743-63b241df9c3e.prof
+Thu Aug  8 15:42:02 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/mkdir-05224ac2-a091-4643-8962-097f9620fbd8.prof
+Thu Aug  8 15:41:57 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/mkdir-88f55022-edbe-4143-bb00-ca8338549bf6.prof
+Thu Aug  8 15:43:02 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-fa3032f0-6437-47be-ba57-328879379fc1.prof
+Thu Aug  8 15:43:02 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/close-dace6aab-be1c-46e5-82b6-66a5b0dd756c.prof
+Thu Aug  8 15:41:56 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-08b208f6-5ad1-4496-8c86-704a3fcab250.prof
+Thu Aug  8 15:42:45 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/open-af40d4b7-eb84-46f9-8460-b6912e4bb3f2.prof
+Thu Aug  8 15:43:26 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/close-91921fb7-f2fb-43c4-aa5a-21a0ecf0d30a.prof
+Thu Aug  8 15:41:58 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/mkdir-d8be22a9-803a-4c16-8004-4fb4bfbe873d.prof
+Thu Aug  8 15:41:52 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-7b3dfefa-5c85-44af-b3d5-72f27bb02f82.prof
+Thu Aug  8 15:43:52 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/close-f3b000ad-2338-4f6b-a169-43d70cd63e96.prof
+Thu Aug  8 15:45:59 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get-12a9ed10-02c4-40a4-9d39-b5f0ee8b27ca.prof
+Thu Aug  8 15:42:45 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/mkdir-ea85a3fd-bce8-4d3a-88cd-93f4463fd468.prof
+Thu Aug  8 15:42:04 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-e67880b7-1e4a-44b0-a8e9-1819a64357ba.prof
+Thu Aug  8 15:42:46 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/submit_job-40ae3361-c29c-4b95-af6f-c46ec399e3d8.prof
+Thu Aug  8 15:42:04 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/getcwd-ae24c21d-b1c2-4ad5-a161-35874b21d371.prof
+Thu Aug  8 15:42:25 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/put-dc324afc-4c61-4546-8aaa-560a5bfe5f07.prof
+Thu Aug  8 15:42:44 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/close-9de32318-a90c-4bf9-9da9-16e29058ed19.prof
+Thu Aug  8 15:43:13 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-a200daa8-94b6-4c96-96d9-c9f69a1f0990.prof
+Thu Aug  8 15:43:01 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get_jobs-3a765dd3-75ef-4c57-86eb-629cc02910cf.prof
+Thu Aug  8 15:42:41 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/close-5b40e995-2549-4602-8ccc-f7b0f99da535.prof
+Thu Aug  8 15:43:18 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get-c9db1a92-b891-4823-99e0-7b32ae755713.prof
+Thu Aug  8 15:45:36 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get-36b4898a-aa8b-41a6-8732-fc4f28ba1151.prof
+Thu Aug  8 15:44:13 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/getcwd-30dbe1f2-5631-4ec1-a76d-49dbdd3ef34f.prof
+Thu Aug  8 15:43:34 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/put-4c649b9b-33b7-4ecd-8bee-d6308e9db68f.prof
+Thu Aug  8 15:45:20 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get-86594bfa-6991-44ed-b6cb-b64c61ce694f.prof
+Thu Aug  8 15:41:49 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/open-86fe330f-0269-406c-88e1-7492422f284c.prof
+Thu Aug  8 15:42:34 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/put-3196ad8a-acbe-4ba7-b4d5-3f385113fa78.prof
+Thu Aug  8 15:45:39 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/close-32081118-c31b-45de-a749-22f24d942b87.prof
+Thu Aug  8 15:43:28 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-e690620f-c7e0-409e-85dd-7ff7a6afacf7.prof
+Thu Aug  8 15:45:46 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get-191ea3e0-792b-4023-8873-f674d1768942.prof
+Thu Aug  8 15:42:46 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/mkdir-9ea10250-0b3a-4686-9b74-092f7acee50c.prof
+Thu Aug  8 15:43:51 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/close-4ef7c98d-a8be-4ef9-b332-3264168585b8.prof
+Thu Aug  8 15:42:42 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/put-d8f7719e-b7ab-4b66-aa02-a86f66611fb7.prof
+Thu Aug  8 15:44:12 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/mkdir-5fb2a145-827b-4e2c-8e97-b7b112687ffe.prof
+Thu Aug  8 15:43:27 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/open-2c826d7b-6d06-4100-b9fa-73e0218b4401.prof
+Thu Aug  8 15:42:46 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/close-cab18389-eac2-4f57-95dd-77b738c45b05.prof
+Thu Aug  8 15:44:57 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/open-91970e39-4e34-4ca0-8762-35475365fefc.prof
+Thu Aug  8 15:42:58 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/open-b46d534e-ff78-40c6-9aba-ac163c8921d6.prof
+Thu Aug  8 15:42:49 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/close-1182e4f9-3bf0-491b-9542-ef8e633ee2c3.prof
+Thu Aug  8 15:42:42 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/close-485b10d0-f7f2-4f7c-8c8e-9af747e04543.prof
+Thu Aug  8 15:41:51 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-dba9eb7b-91e8-4e83-8aa1-416cf816d7a7.prof
+Thu Aug  8 15:43:18 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/mkdir-57c986c7-1a83-4655-a0f6-d554ba0c70f7.prof
+Thu Aug  8 15:45:43 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get-e7369661-3850-448f-80a5-dd553e2af294.prof
+Thu Aug  8 15:44:13 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-b4c1fa7f-c4c3-44bc-a12c-3e66c883c1e8.prof
+Thu Aug  8 15:43:27 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-dc6a464f-7821-4d99-9ec3-628a29114088.prof
+Thu Aug  8 15:42:26 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/put-2351f149-8eb5-4171-859d-317735a5ce5b.prof
+Thu Aug  8 15:42:45 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/submit_job-09687b87-2761-4a3a-9a77-f573bd0638c9.prof
+Thu Aug  8 15:42:43 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/put-f150d3e1-b672-4477-82eb-7401ecfa1a5a.prof
+Thu Aug  8 15:42:00 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-ad38a4d0-9591-43f6-a815-7a3aadc2cd01.prof
+Thu Aug  8 15:44:26 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/mkdir-3214cc92-24c0-4b84-99ae-9ae768f17852.prof
+Thu Aug  8 15:41:54 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/mkdir-3fdba27c-dd2b-4972-937f-2ff0ab0e5b97.prof
+Thu Aug  8 15:44:38 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/open-815f354a-db04-4749-ae83-cdba116c7eed.prof
+Thu Aug  8 15:42:43 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/open-221641e4-b8e2-4160-89bd-f34dd20f6b4f.prof
+Thu Aug  8 15:44:45 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/submit_job-1b9528fc-4291-4bbc-9c76-0104759b2424.prof
+Thu Aug  8 15:41:58 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/mkdir-4d2b92df-5ab7-4ea8-90f2-81253391184c.prof
+Thu Aug  8 15:45:07 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get-c4c4fa0d-79a1-4f47-ad40-41e1c592417b.prof
+Thu Aug  8 15:44:28 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/getcwd-4308977b-a2c1-485a-967e-0693afdec54b.prof
+Thu Aug  8 15:41:55 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/mkdir-cf70516a-10e0-4a1b-afb3-4e7941c6cdf5.prof
+Thu Aug  8 15:42:42 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/put-44695512-3a3a-4bca-995a-eeab8f690720.prof
+Thu Aug  8 15:41:59 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-9b954184-072d-4b5b-8287-2f7356fdea30.prof
+Thu Aug  8 15:43:00 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/close-ceb0db0e-6b37-467d-9463-e72f55530321.prof
+Thu Aug  8 15:42:42 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/close-0664b3da-c35e-4849-b6f3-40b7bcac1546.prof
+Thu Aug  8 15:43:14 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/close-03f89f34-a962-4550-b92c-ed2863325708.prof
+Thu Aug  8 15:43:42 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/mkdir-d55bb2bb-f739-4b53-927b-92874b2fe138.prof
+Thu Aug  8 15:42:44 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/submit_job-882b3cef-9eef-4ab2-b807-5d8643079bf8.prof
+Thu Aug  8 15:42:35 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/put-9ee814e7-da02-4726-abda-c48107e3ea21.prof
+Thu Aug  8 15:45:50 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-17fee89d-9e96-49f1-8991-442b6c41c1ac.prof
+Thu Aug  8 15:43:16 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/mkdir-d98dd6dc-9951-4b7d-9885-fbced1b02b04.prof
+Thu Aug  8 15:45:59 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/close-e8cf07d4-ba9b-4469-846a-ce2f196c2cce.prof
+Thu Aug  8 15:41:48 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/open-dca53a18-f121-4350-b1a5-8a5425b5f151.prof
+Thu Aug  8 15:45:23 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get-c4cb23df-4195-47c4-a51a-76da06f0f061.prof
+Thu Aug  8 15:45:07 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-ff20a247-f8f4-463c-a699-d347feb7f72a.prof
+Thu Aug  8 15:43:01 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/close-26b98699-c20c-45ee-b8ae-aac2e7af4829.prof
+Thu Aug  8 15:43:26 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get_jobs-218abdd3-97cb-4848-8ccb-89ddcf983461.prof
+Thu Aug  8 15:43:07 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get-17b623cb-0337-4399-bceb-8b76c11d24b9.prof
+Thu Aug  8 15:44:10 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/mkdir-a8f1d353-b656-4cdc-bc05-0462ae6b72ba.prof
+Thu Aug  8 15:43:34 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get-0e854fd8-f1b0-4bf4-b785-8e23a61f7d58.prof
+Thu Aug  8 15:43:45 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get-41c98837-c7d2-485d-907a-eaebb89950a7.prof
+Thu Aug  8 15:41:49 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/open-34bca907-cbfc-4a81-94d3-f8e811522988.prof
+Thu Aug  8 15:44:43 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/submit_job-13e1e2e1-54dc-4e0e-b071-b05cc4ec8189.prof
+Thu Aug  8 15:43:14 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get_jobs-0b828322-a20e-4447-bebc-c84300dcc633.prof
+Thu Aug  8 15:43:39 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/mkdir-f4f0a5f7-de51-434e-a7d6-aeac36db2ea0.prof
+Thu Aug  8 15:42:03 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/mkdir-8a4b6016-eddb-4f06-8a53-5bee32c40539.prof
+Thu Aug  8 15:44:03 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/put-f21f65de-96fa-4c6d-8a23-e737e5739922.prof
+Thu Aug  8 15:42:44 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/mkdir-a55e5ebd-20a1-4be1-a72b-af630579a3fd.prof
+Thu Aug  8 15:43:11 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/put-7d164259-acf0-4986-8f68-5cddd497d12b.prof
+Thu Aug  8 15:43:47 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-9577d25b-0b7b-40e5-a05c-1941f5b96ec8.prof
+Thu Aug  8 15:43:02 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get_jobs-7956bca1-358d-4fc3-a8bf-d94dd4721b07.prof
+Thu Aug  8 15:43:25 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/put-facbf6de-d89b-4bee-9e88-7aa03c3badf9.prof
+Thu Aug  8 15:41:49 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/open-94195e2d-2841-4bfb-8f83-4e070d11d63e.prof
+Thu Aug  8 15:43:07 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/put-432953da-b4c0-4ce7-b0c0-0baafe5ca0ea.prof
+Thu Aug  8 15:42:04 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/getcwd-c92411ac-757a-4143-a2f2-5a2fab05cc4d.prof
+Thu Aug  8 15:44:34 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/put-dedab571-8023-4a49-97c0-cb48fdf75e99.prof
+Thu Aug  8 15:44:11 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/mkdir-8140ac56-604a-42ca-9ff1-728b2a7fbc33.prof
+Thu Aug  8 15:42:02 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/mkdir-b54be790-8e7c-4584-85c3-9eb89a34530c.prof
+Thu Aug  8 15:43:19 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-13067ebc-f08e-40af-8627-399d67c74a8f.prof
+Thu Aug  8 15:42:01 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-5fea7308-79a5-45d1-87e4-44e701c88458.prof
+Thu Aug  8 15:44:27 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/mkdir-e7252707-443f-4961-b5b6-2a2b6a509af0.prof
+Thu Aug  8 15:42:44 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-f723d3dc-3aa9-4d18-8a60-251f5dfcee53.prof
+Thu Aug  8 15:41:57 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/chdir-a5e31d65-8649-449c-be21-8c451f84b27e.prof
+Thu Aug  8 15:43:18 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/close-56d88559-36a4-4f75-99cc-3b9ac678839d.prof
+Thu Aug  8 15:43:14 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/close-dffdd63b-3e7d-4f7e-b13a-b990dfc14ef3.prof
+Thu Aug  8 15:43:43 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/get-40a00698-75f7-472f-9b93-8c1af78e0ae6.prof
+Thu Aug  8 15:42:48 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/fire_9/close-389c1c61-e0f2-43ef-85ba-1dc823bf5f46.prof
+
+         3291987 function calls (3286912 primitive calls) in 497.754 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+      528  444.317    0.842  444.317    0.842 {method 'read' of '_ssl._SSLSocket' objects}
+       48   45.756    0.953   45.756    0.953 {built-in method time.sleep}
+       42    1.498    0.036    1.498    0.036 {method 'do_handshake' of '_ssl._SSLSocket' objects}
+       42    0.670    0.016    0.670    0.016 {method 'connect' of '_socket.socket' objects}
+       42    0.552    0.013    0.553    0.013 {built-in method _socket.getaddrinfo}
+       42    0.522    0.012    0.522    0.012 {method 'load_verify_locations' of '_ssl._SSLContext' objects}
+   138429    0.230    0.000    0.589    0.000 <frozen os>:674(__getitem__)
+   147617    0.193    0.000    1.021    0.000 <frozen _collections_abc>:859(__iter__)
+     3087    0.191    0.000    0.275    0.000 url.py:227(_encode_invalid_chars)
+      672    0.173    0.000    0.224    0.000 __init__.py:1415(_clear_cache)
+   267972    0.154    0.000    0.266    0.000 <frozen os>:760(decode)
+      978    0.148    0.000    1.141    0.001 request.py:2499(getproxies_environment)
+   138429    0.145    0.000    0.222    0.000 <frozen os>:756(encode)
+   394988    0.137    0.000    0.137    0.000 {method 'decode' of 'bytes' objects}
+   134964    0.110    0.000    0.240    0.000 <frozen os>:697(__iter__)
+427504/425474    0.101    0.000    0.137    0.000 {built-in method builtins.isinstance}
+167195/167111    0.068    0.000    0.069    0.000 {method 'encode' of 'str' objects}
+   193931    0.056    0.000    0.056    0.000 {method 'lower' of 'str' objects}
+    20156    0.054    0.000    0.054    0.000 {method 'match' of 're.Pattern' objects}
+     4932    0.039    0.000    0.078    0.000 parse.py:374(urlparse)
+      489    0.037    0.000    0.093    0.000 feedparser.py:469(_parse_headers)
+     2484    0.035    0.000    0.055    0.000 pathlib.py:56(parse_parts)
+     1467    0.035    0.000    0.322    0.000 url.py:369(parse_url)
+     3444    0.032    0.000    0.092    0.000 <frozen _collections_abc>:941(update)
+      601    0.032    0.000    0.032    0.000 {method 'write' of '_ssl._SSLSocket' objects}
+     2643    0.031    0.000    0.032    0.000 {built-in method posix.stat}
+     3538    0.031    0.000    0.062    0.000 client.py:1259(putheader)
+      978    0.031    0.000    0.207    0.000 feedparser.py:216(_parsegen)
+       21    0.028    0.001    0.032    0.002 connection.py:263(close)
+     7408    0.026    0.000    0.039    0.000 _policybase.py:293(header_source_parse)
+      489    0.025    0.000  449.507    0.919 sessions.py:673(send)
+    16415    0.024    0.000    0.029    0.000 structures.py:46(__setitem__)
+      489    0.024    0.000  444.952    0.910 connection.py:428(getresponse)
+      489    0.023    0.000    0.238    0.000 connection.py:312(request)
+    16013    0.023    0.000    0.028    0.000 structures.py:51(__getitem__)
+     6625    0.022    0.000    0.022    0.000 {method 'search' of 're.Pattern' objects}
+     7326    0.022    0.000    0.025    0.000 parse.py:119(_coerce_args)
+     3912    0.022    0.000    0.045    0.000 message.py:490(get)
+      489    0.022    0.000    0.035    0.000 client.py:213(_read_headers)
+   131153    0.021    0.000    0.021    0.000 {built-in method builtins.ord}
+    11121    0.021    0.000    0.021    0.000 {built-in method __new__ of type object at 0xa7a840}
+     1956    0.021    0.000    0.028    0.000 message.py:525(get_all)
+      489    0.020    0.000  448.795    0.918 connectionpool.py:595(urlopen)
+      489    0.019    0.000    0.023    0.000 poolmanager.py:95(_default_key_normalizer)
+      489    0.019    0.000    0.069    0.000 _collections.py:335(extend)
+     9352    0.018    0.000    0.023    0.000 _collections.py:257(__getitem__)
+     3423    0.018    0.000    0.103    0.000 sessions.py:61(merge_setting)
+      489    0.017    0.000  444.722    0.909 client.py:318(begin)
+      489    0.017    0.000  449.283    0.919 adapters.py:434(send)
+     7408    0.017    0.000    0.026    0.000 _collections.py:300(add)
+   112590    0.017    0.000    0.017    0.000 {method 'clear' of 'dict' objects}
+      489    0.017    0.000  448.522    0.917 connectionpool.py:380(_make_request)
+      377    0.017    0.000  333.659    0.885 BasicClient.py:177(_get_request)
+41906/41309    0.016    0.000    0.018    0.000 {built-in method builtins.len}
+     2150    0.016    0.000    0.028    0.000 __init__.py:1734(isEnabledFor)
+    10384    0.016    0.000    0.031    0.000 _policybase.py:281(_sanitize_header)
+     3572    0.016    0.000    0.046    0.000 utils.py:340(to_key_val_list)
+      489    0.016    0.000    0.583    0.001 sessions.py:459(prepare_request)
+     3087    0.015    0.000    0.029    0.000 {method 'subn' of 're.Pattern' objects}
+      489    0.015    0.000    0.042    0.000 client.py:1103(putrequest)
+     5480    0.015    0.000    0.044    0.000 <frozen _collections_abc>:771(get)
+      468    0.015    0.000    2.600    0.006 Authorization.py:64(get_access_token)
+     8875    0.014    0.000    0.016    0.000 feedparser.py:77(readline)
+     3538    0.014    0.000    0.088    0.000 connection.py:298(putheader)
+     3912    0.014    0.000    0.035    0.000 parse.py:164(hostname)
+      489    0.014    0.000  444.355    0.909 client.py:285(_read_status)
+      489    0.014    0.000    0.070    0.000 utils.py:199(get_netrc_auth)
+    50721    0.013    0.000    0.013    0.000 {method 'append' of 'list' objects}
+      489    0.013    0.000  451.329    0.923 sessions.py:502(request)
+      438    0.013    0.000    0.024    0.000 parse.py:452(urlsplit)
+    11951    0.013    0.000    0.013    0.000 {built-in method _abc._abc_instancecheck}
+      489    0.013    0.000    0.077    0.000 models.py:484(prepare_headers)
+      978    0.013    0.000    0.087    0.000 response.py:801(_raw_read)
+     3912    0.013    0.000    0.017    0.000 parse.py:205(_hostinfo)
+    16513    0.012    0.000    0.012    0.000 structures.py:58(<genexpr>)
+     8386    0.012    0.000  444.344    0.053 {method 'readline' of '_io.BufferedReader' objects}
+     2484    0.012    0.000    0.070    0.000 pathlib.py:484(_parse_args)
+     1020    0.012    0.000    0.030    0.000 <frozen posixpath>:229(expanduser)
+     6733    0.012    0.000    0.034    0.000 <frozen _collections_abc>:778(__contains__)
+      462    0.012    0.000    0.012    0.000 decoder.py:343(raw_decode)
+    14521    0.012    0.000    0.012    0.000 {method 'split' of 'str' objects}
+     1467    0.011    0.000    0.017    0.000 url.py:263(_remove_path_dot_segments)
+     8875    0.011    0.000    0.028    0.000 feedparser.py:127(__next__)
+      489    0.011    0.000    0.016    0.000 socket.py:303(makefile)
+     2607    0.011    0.000    0.013    0.000 contextlib.py:104(__init__)
+      489    0.011    0.000    0.185    0.000 models.py:410(prepare_url)
+      489    0.011    0.000    0.041    0.000 response.py:537(__init__)
+     1956    0.011    0.000    0.041    0.000 message.py:592(get_content_type)
+      489    0.011    0.000    0.331    0.001 client.py:231(parse_headers)
+     1551    0.010    0.000    0.037    0.000 url.py:303(_normalize_host)
+     2466    0.010    0.000    0.095    0.000 structures.py:40(__init__)
+    11951    0.010    0.000    0.023    0.000 <frozen abc>:117(__instancecheck__)
+    16245    0.010    0.000    0.010    0.000 {method 'startswith' of 'str' objects}
+    10794    0.010    0.000    0.012    0.000 pathlib.py:239(splitroot)
+      489    0.010    0.000    0.013    0.000 utils.py:635(unquote_unreserved)
+     7687    0.010    0.000    0.014    0.000 util.py:19(to_str)
+      354    0.010    0.000    0.016    0.000 parse.py:941(<listcomp>)
+      498    0.010    0.000    0.118    0.000 response.py:843(read)
+      601    0.010    0.000    0.046    0.000 ssl.py:1262(sendall)
+      489    0.010    0.000    0.159    0.000 adapters.py:294(build_response)
+     1561    0.010    0.000    0.031    0.000 parse.py:923(quote_from_bytes)
+    10873    0.010    0.000    0.013    0.000 utils.py:51(_has_surrogates)
+    10384    0.009    0.000    0.041    0.000 _policybase.py:311(header_fetch_parse)
+     5692    0.009    0.000    0.030    0.000 utils.py:1043(_validate_header_part)
+     1488    0.009    0.000    0.018    0.000 cookiejar.py:1261(__init__)
+    15267    0.009    0.000    0.009    0.000 {built-in method builtins.hasattr}
+      909    0.009    0.000    0.020    0.000 queue.py:122(put)
+      978    0.009    0.000    0.049    0.000 cookiejar.py:1599(make_cookies)
+     6525    0.009    0.000    0.013    0.000 url.py:242(<lambda>)
+      489    0.009    0.000    0.016    0.000 response.py:297(__init__)
+      981    0.008    0.000  190.277    0.194 path.py:474(iterdir)
+5281/4632    0.008    0.000    0.276    0.000 {built-in method builtins.next}
+      489    0.008    0.000    0.015    0.000 feedparser.py:137(__init__)
+      978    0.008    0.000    0.045    0.000 utils.py:836(select_proxy)
+     7408    0.008    0.000    0.010    0.000 message.py:507(set_raw)
+      489    0.008    0.000    0.032    0.000 models.py:659(__init__)
+      489    0.008    0.000    0.033    0.000 message.py:487(<listcomp>)
+    20168    0.008    0.000    0.009    0.000 {method 'join' of 'str' objects}
+     6067    0.008    0.000    0.138    0.000 {method 'join' of 'bytes' objects}
+      489    0.008    0.000    1.218    0.002 sessions.py:751(merge_environment_settings)
+      999    0.008    0.000    0.030    0.000 cookies.py:521(cookiejar_from_dict)
+      464    0.008    0.000    0.066    0.000 BasicClient.py:280(_json_response)
+2607/2271    0.008    0.000    0.182    0.000 contextlib.py:141(__exit__)
+      978    0.008    0.000    0.090    0.000 cookies.py:124(extract_cookies_to_jar)
+      978    0.008    0.000    0.024    0.000 client.py:457(read)
+      489    0.008    0.000    0.628    0.001 utils.py:764(should_bypass_proxies)
+      489    0.008    0.000    0.019    0.000 feedparser.py:100(push)
+      489    0.007    0.000    0.276    0.001 parser.py:41(parse)
+      978    0.007    0.000    0.059    0.000 cookiejar.py:1680(extract_cookies)
+      564    0.007    0.000    0.056    0.000 models.py:106(_encode_params)
+      489    0.007    0.000    0.018    0.000 cookiejar.py:1356(add_cookie_header)
+     3186    0.007    0.000    0.011    0.000 url.py:332(_idna_encode)
+      978    0.007    0.000    0.007    0.000 {method 'readlines' of '_io._IOBase' objects}
+     1467    0.007    0.000    0.012    0.000 url.py:100(__new__)
+     2607    0.007    0.000    0.020    0.000 contextlib.py:299(helper)
+      720    0.007    0.000    0.017    0.000 queue.py:154(get)
+     3538    0.007    0.000    0.014    0.000 connection.py:347(<genexpr>)
+      489    0.007    0.000  444.751    0.910 client.py:1351(getresponse)
+      936    0.007    0.000    0.015    0.000 utilities.py:6(time_block)
+      489    0.007    0.000    0.009    0.000 response.py:251(get)
+      489    0.007    0.000    0.376    0.001 models.py:352(prepare)
+     1509    0.007    0.000    0.008    0.000 timeout.py:113(__init__)
+     3912    0.007    0.000    0.009    0.000 <frozen _collections_abc>:790(items)
+     2468    0.007    0.000    0.008    0.000 structures.py:57(__iter__)
+      564    0.007    0.000    0.042    0.000 parse.py:943(urlencode)
+     1467    0.007    0.000    0.046    0.000 cookies.py:35(__init__)
+     1251    0.006    0.000    0.055    0.000 path.py:91(__init__)
+     4932    0.006    0.000    0.010    0.000 <string>:1(<lambda>)
+      489    0.006    0.000    0.021    0.000 response.py:40(assert_header_parsing)
+     1044    0.006    0.000    0.032    0.000 pathlib.py:530(_make_child)
+     2846    0.006    0.000    0.036    0.000 utils.py:1032(check_header_validity)
+      126    0.006    0.000    0.007    0.000 {built-in method io.open}
+      978    0.006    0.000    0.022    0.000 parse.py:509(urlunparse)
+      489    0.006    0.000    0.011    0.000 response.py:641(_init_length)
+      489    0.006    0.000    0.079    0.000 _collections.py:240(__init__)
+      225    0.006    0.000  167.211    0.743 path.py:326(_stat_mode)
+      489    0.006    0.000    0.026    0.000 adapters.py:237(cert_verify)
+      489    0.006    0.000    0.282    0.001 parser.py:59(parsestr)
+      528    0.006    0.000  444.327    0.842 ssl.py:1299(recv_into)
+      978    0.006    0.000    0.010    0.000 parse.py:520(urlunsplit)
+     2466    0.006    0.000    0.007    0.000 cookiejar.py:1227(deepvalues)
+      489    0.006    0.000    0.008    0.000 socket.py:769(close)
+      464    0.006    0.000  469.462    1.012 BasicClient.py:66(wrapper)
+    26135    0.006    0.000    0.006    0.000 {method '__getitem__' of 'dict' objects}
+      171    0.006    0.000  190.086    1.112 utilities.py:36(wrapper)
+    10190    0.006    0.000    0.006    0.000 {method 'find' of 'str' objects}
+     4083    0.006    0.000    0.012    0.000 {built-in method builtins.any}
+     7076    0.006    0.000    0.007    0.000 connection.py:300(<genexpr>)
+2607/2271    0.005    0.000    0.116    0.000 contextlib.py:132(__enter__)
+     1956    0.005    0.000    0.007    0.000 message.py:29(_splitparam)
+     9252    0.005    0.000    0.005    0.000 {method 'setdefault' of 'dict' objects}
+     3538    0.005    0.000    0.005    0.000 {method 'fullmatch' of 're.Pattern' objects}
+      528    0.005    0.000  444.334    0.842 socket.py:692(readinto)
+     1485    0.005    0.000    0.140    0.000 models.py:887(content)
+     1488    0.005    0.000    0.005    0.000 cookiejar.py:884(__init__)
+     1956    0.005    0.000    0.031    0.000 <frozen genericpath>:16(exists)
+      489    0.005    0.000    0.021    0.000 client.py:255(__init__)
+    13944    0.005    0.000    0.005    0.000 {method 'partition' of 'str' objects}
+     1251    0.005    0.000    0.060    0.000 path.py:180(_new_path)
+      489    0.005    0.000    0.028    0.000 models.py:495(prepare_body)
+      489    0.005    0.000    0.236    0.000 adapters.py:331(get_connection)
+      447    0.005    0.000    0.011    0.000 wait.py:57(poll_wait_for_socket)
+      775    0.005    0.000    0.008    0.000 pathlib.py:536(__str__)
+      377    0.005    0.000  331.411    0.879 sessions.py:593(get)
+      489    0.005    0.000    0.007    0.000 models.py:258(__init__)
+     5289    0.005    0.000    0.005    0.000 {built-in method builtins.getattr}
+     1062    0.005    0.000    0.016    0.000 url.py:326(<listcomp>)
+     4287    0.005    0.000    0.005    0.000 {method 'acquire' of '_thread.RLock' objects}
+      462    0.005    0.000    0.020    0.000 decoder.py:332(decode)
+     1030    0.005    0.000    0.034    0.000 parse.py:901(quote_plus)
+     1440    0.005    0.000    0.053    0.000 pathlib.py:504(_from_parts)
+     1561    0.005    0.000    0.037    0.000 parse.py:847(quote)
+      601    0.005    0.000    0.052    0.000 client.py:988(send)
+     9916    0.005    0.000    0.005    0.000 {method 'lstrip' of 'str' objects}
+     7876    0.005    0.000    0.005    0.000 _collections.py:289(__iter__)
+      978    0.005    0.000    0.007    0.000 typing.py:373(inner)
+    10335    0.005    0.000    0.005    0.000 {built-in method sys.intern}
+      978    0.004    0.000    0.125    0.000 response.py:918(stream)
+      489    0.004    0.000    0.016    0.000 utils.py:1016(get_auth_from_url)
+      489    0.004    0.000    0.050    0.000 poolmanager.py:305(connection_from_context)
+      978    0.004    0.000    0.211    0.000 feedparser.py:176(_call_parse)
+     2319    0.004    0.000    0.007    0.000 __init__.py:228(_acquireLock)
+      489    0.004    0.000    0.004    0.000 socket.py:680(__init__)
+      978    0.004    0.000    0.011    0.000 cookies.py:542(merge_cookies)
+     9191    0.004    0.000    0.004    0.000 {method 'rstrip' of 'str' objects}
+     4027    0.004    0.000    0.005    0.000 client.py:1028(_output)
+       63    0.004    0.000  117.943    1.872 transport.py:754(_validate_checksum)
+      489    0.004    0.000    0.057    0.000 poolmanager.py:276(connection_from_host)
+     6059    0.004    0.000    0.008    0.000 {method 'get' of 'dict' objects}
+       91    0.004    0.000  117.797    1.294 BasicClient.py:198(_post_request)
+      462    0.004    0.000    0.045    0.000 models.py:944(json)
+      489    0.004    0.000    0.004    0.000 feedparser.py:52(__init__)
+     1015    0.004    0.000    0.010    0.000 typing.py:1602(__subclasscheck__)
+     1956    0.004    0.000    0.025    0.000 response.py:697(_error_catcher)
+      489    0.004    0.000    0.012    0.000 message.py:243(get_payload)
+      489    0.004    0.000    0.006    0.000 request.py:189(body_to_chunks)
+      471    0.004    0.000    0.004    0.000 {built-in method fromtimestamp}
+     9389    0.004    0.000    0.004    0.000 {method 'upper' of 'str' objects}
+     5924    0.004    0.000    0.004    0.000 {method 'rpartition' of 'str' objects}
+      528    0.004    0.000  444.321    0.842 ssl.py:1157(read)
+     2319    0.004    0.000    0.005    0.000 __init__.py:237(_releaseLock)
+      489    0.004    0.000    0.008    0.000 utils.py:538(get_encoding_from_headers)
+      978    0.004    0.000    0.130    0.000 models.py:812(generate)
+     1015    0.004    0.000    0.014    0.000 typing.py:1327(__instancecheck__)
+      489    0.004    0.000    0.023    0.000 poolmanager.py:330(connection_from_pool_key)
+      660    0.003    0.000    0.006    0.000 {method 'read' of '_io.BufferedReader' objects}
+      489    0.003    0.000    0.046    0.000 cookies.py:140(get_cookie_header)
+      489    0.003    0.000    0.014    0.000 models.py:85(path_url)
+     1608    0.003    0.000    0.008    0.000 threading.py:366(notify)
+      489    0.003    0.000    0.193    0.000 poolmanager.py:356(connection_from_url)
+      489    0.003    0.000    0.030    0.000 feedparser.py:182(close)
+     1530    0.003    0.000    0.003    0.000 threading.py:90(RLock)
+      978    0.003    0.000    0.003    0.000 message.py:150(__init__)
+      489    0.003    0.000    0.044    0.000 adapters.py:370(request_url)
+     3335    0.003    0.000    0.004    0.000 _internal_utils.py:25(to_native_string)
+      462    0.003    0.000    0.024    0.000 __init__.py:299(loads)
+      489    0.003    0.000    0.046    0.000 connection.py:278(putrequest)
+      438    0.003    0.000    0.005    0.000 parse.py:413(_splitnetloc)
+       36    0.003    0.000  197.090    5.475 transport.py:940(putfile)
+      630    0.003    0.000    0.222    0.000 path.py:275(convert_header_exceptions)
+     1467    0.003    0.000    0.015    0.000 sessions.py:84(<listcomp>)
+      489    0.003    0.000    0.053    0.000 client.py:1049(_send_output)
+      489    0.003    0.000    0.005    0.000 _collections.py:93(__getitem__)
+      978    0.003    0.000    0.027    0.000 response.py:753(_fp_read)
+      489    0.003    0.000    0.080    0.000 url.py:351(_encode_target)
+      978    0.003    0.000    0.007    0.000 timeout.py:192(clone)
+     1467    0.003    0.000    0.029    0.000 message.py:616(get_content_maintype)
+     1561    0.003    0.000    0.003    0.000 {method 'rstrip' of 'bytes' objects}
+      489    0.003    0.000    0.006    0.000 feedparser.py:69(close)
+      489    0.003    0.000    0.006    0.000 models.py:207(register_hook)
+      489    0.003    0.000    0.036    0.000 connectionpool.py:259(_get_conn)
+     1629    0.003    0.000    0.004    0.000 threading.py:271(__enter__)
+      978    0.003    0.000    0.011    0.000 connectionpool.py:349(_get_timeout)
+      969    0.003    0.000    0.004    0.000 response.py:247(put)
+      489    0.003    0.000    3.292    0.007 connectionpool.py:1084(_validate_conn)
+     1251    0.003    0.000    0.004    0.000 pathlib.py:515(_from_parsed_parts)
+      489    0.003    0.000    0.004    0.000 sessions.py:782(get_adapter)
+     1130    0.003    0.000    0.014    0.000 __init__.py:1544(log)
+      489    0.003    0.000    0.222    0.000 feedparser.py:171(feed)
+     2466    0.003    0.000    0.003    0.000 cookiejar.py:1753(__iter__)
+      489    0.003    0.000    0.011    0.000 {method 'close' of '_io.BufferedReader' objects}
+     1647    0.003    0.000    0.003    0.000 __init__.py:1720(getEffectiveLevel)
+      451    0.003    0.000    0.003    0.000 {method 'poll' of 'select.poll' objects}
+     8043    0.003    0.000    0.003    0.000 {method 'items' of 'dict' objects}
+      489    0.003    0.000    0.004    0.000 feedparser.py:195(_new_message)
+      489    0.003    0.000    0.014    0.000 sessions.py:159(resolve_redirects)
+      453    0.003    0.000    0.016    0.000 models.py:906(text)
+     1827    0.003    0.000    0.003    0.000 pathlib.py:622(name)
+    84/12    0.003    0.000    0.008    0.001 _parser.py:516(_parse)
+      489    0.003    0.000    0.003    0.000 models.py:795(iter_content)
+      489    0.003    0.000    0.005    0.000 cookiejar.py:1734(clear_expired_cookies)
+      672    0.003    0.000    0.228    0.000 __init__.py:1460(setLevel)
+     1629    0.003    0.000    0.003    0.000 threading.py:274(__exit__)
+     4344    0.003    0.000    0.003    0.000 {built-in method time.time}
+     1608    0.003    0.000    0.005    0.000 threading.py:286(_is_owned)
+      489    0.003    0.000    0.586    0.001 request.py:2530(proxy_bypass_environment)
+     3087    0.003    0.000    0.003    0.000 {method 'decode' of 'bytearray' objects}
+      999    0.003    0.000    0.004    0.000 hooks.py:15(default_hooks)
+      978    0.003    0.000    0.005    0.000 cookies.py:358(update)
+      969    0.002    0.000    0.020    0.000 response.py:597(release_conn)
+     3912    0.002    0.000    0.002    0.000 <frozen _collections_abc>:812(__init__)
+     1014    0.002    0.000    0.020    0.000 __init__.py:1467(debug)
+     1104    0.002    0.000    0.002    0.000 {method 'settimeout' of '_socket.socket' objects}
+      601    0.002    0.000    0.035    0.000 ssl.py:1235(send)
+     6525    0.002    0.000    0.002    0.000 {method 'group' of 're.Match' objects}
+     3096    0.002    0.000    0.002    0.000 {method 'count' of 'bytes' objects}
+     1251    0.002    0.000    0.047    0.000 pathlib.py:469(__new__)
+       42    0.002    0.000    1.507    0.036 ssl.py:1018(_create)
+      489    0.002    0.000    0.018    0.000 connectionpool.py:297(_put_conn)
+      498    0.002    0.000    0.005    0.000 response.py:410(_init_decoder)
+      489    0.002    0.000    0.003    0.000 parse.py:659(unquote)
+     1827    0.002    0.000    0.005    0.000 path.py:210(name)
+      489    0.002    0.000    0.019    0.000 models.py:589(prepare_auth)
+      489    0.002    0.000    1.189    0.002 utils.py:824(get_environ_proxies)
+     8866    0.002    0.000    0.002    0.000 {method 'popleft' of 'collections.deque' objects}
+       42    0.002    0.000    0.021    0.000 ssl_.py:215(create_urllib3_context)
+      489    0.002    0.000    0.048    0.000 models.py:611(prepare_cookies)
+      489    0.002    0.000    0.022    0.000 utils.py:659(requote_uri)
+     1023    0.002    0.000    0.002    0.000 {built-in method _abc._abc_subclasscheck}
+     7326    0.002    0.000    0.002    0.000 parse.py:108(_noop)
+       42    0.002    0.000    2.057    0.049 connection.py:701(_ssl_wrap_socket_and_match_hostname)
+     2976    0.002    0.000    0.002    0.000 {method 'groups' of 're.Match' objects}
+      489    0.002    0.000    0.055    0.000 client.py:1287(endheaders)
+     1629    0.002    0.000    0.003    0.000 queue.py:248(_qsize)
+      567    0.002    0.000    0.003    0.000 pathlib.py:523(_format_parsed_parts)
+      489    0.002    0.000    0.011    0.000 utils.py:772(get_proxy)
+      489    0.002    0.000    0.005    0.000 <frozen genericpath>:39(isdir)
+     4287    0.002    0.000    0.002    0.000 {method 'release' of '_thread.RLock' objects}
+      531    0.002    0.000    0.002    0.000 {method 'pop' of 'collections.OrderedDict' objects}
+       21    0.002    0.000    0.003    0.000 ssl.py:1371(_real_close)
+      134    0.002    0.000    0.002    0.000 {method '__exit__' of '_io._IOBase' objects}
+       27    0.002    0.000   96.523    3.575 transport.py:701(getfile)
+      489    0.002    0.000    0.002    0.000 response.py:240(__init__)
+       42    0.002    0.000    3.289    0.078 connection.py:602(connect)
+      489    0.002    0.000    0.004    0.000 retry.py:383(is_retry)
+     1608    0.002    0.000    0.002    0.000 {method 'acquire' of '_thread.lock' objects}
+     4649    0.002    0.000    0.002    0.000 {method 'strip' of 'str' objects}
+      978    0.002    0.000    0.003    0.000 feedparser.py:121(pushlines)
+      489    0.002    0.000    0.003    0.000 models.py:335(__init__)
+      630    0.002    0.000    0.214    0.000 path.py:26(diable_fc_logging)
+     2807    0.002    0.000    0.002    0.000 client.py:447(isclosed)
+        9    0.002    0.000    0.012    0.001 api.py:33(from_bytes)
+      489    0.002    0.000    0.002    0.000 {method 'write' of '_io.StringIO' objects}
+      489    0.002    0.000    0.003    0.000 cookiejar.py:1297(_cookie_attrs)
+      489    0.002    0.000    0.002    0.000 client.py:436(flush)
+      447    0.002    0.000    0.013    0.000 wait.py:113(wait_for_read)
+      489    0.002    0.000    0.002    0.000 utils.py:513(_parse_content_type_header)
+      489    0.002    0.000    0.002    0.000 typing.py:1394(__hash__)
+      171    0.002    0.000  190.075    1.112 BasicClient.py:488(list_files)
+      489    0.002    0.000    0.017    0.000 structures.py:76(copy)
+      489    0.002    0.000    0.007    0.000 client.py:390(_check_close)
+      447    0.002    0.000    0.015    0.000 connection.py:253(is_connected)
+      489    0.002    0.000    0.002    0.000 retry.py:375(_is_method_retryable)
+      987    0.002    0.000    0.003    0.000 response.py:9(is_fp_closed)
+      489    0.002    0.000    0.003    0.000 models.py:394(prepare_method)
+ 1344/660    0.002    0.000    0.004    0.000 {built-in method builtins.hash}
+      497    0.002    0.000    0.002    0.000 <frozen importlib._bootstrap>:405(parent)
+       42    0.002    0.000    0.005    0.000 cookiejar.py:466(parse_ns_headers)
+      489    0.002    0.000    0.008    0.000 models.py:631(prepare_hooks)
+     1019    0.002    0.000    0.005    0.000 {built-in method builtins.issubclass}
+     2084    0.002    0.000    0.002    0.000 {method 'endswith' of 'str' objects}
+      510    0.002    0.000    0.005    0.000 client.py:424(close)
+      468    0.002    0.000    0.010    0.000 Authorization.py:58(_log)
+      890    0.002    0.000    0.002    0.000 {method 'update' of 'dict' objects}
+      234    0.002    0.000    0.031    0.000 path.py:267(joinpath)
+       42    0.002    0.000    0.002    0.000 {method '_wrap_socket' of '_ssl._SSLContext' objects}
+      447    0.002    0.000    0.002    0.000 {method 'register' of 'select.poll' objects}
+      999    0.002    0.000    0.005    0.000 cookies.py:534(<listcomp>)
+      489    0.002    0.000    0.006    0.000 sessions.py:107(get_redirect_target)
+      978    0.002    0.000    0.002    0.000 response.py:374(retries)
+       21    0.002    0.000   33.555    1.598 BasicClient.py:401(_poll_tasks)
+      489    0.002    0.000    0.002    0.000 client.py:918(_wrap_ipv6)
+      489    0.002    0.000    0.003    0.000 parse.py:156(username)
+       65    0.002    0.000    5.797    0.089 BasicClient.py:338(_tasks)
+     1023    0.002    0.000    0.004    0.000 <frozen abc>:121(__subclasscheck__)
+      626    0.002    0.000    0.007    0.000 BasicClient.py:171(log)
+      489    0.002    0.000    0.034    0.000 message.py:479(items)
+      489    0.002    0.000    0.002    0.000 socket.py:489(_decref_socketios)
+      489    0.002    0.000    0.016    0.000 sessions.py:725(<listcomp>)
+   108/12    0.002    0.000    0.004    0.000 _compiler.py:37(_compile)
+     3681    0.002    0.000    0.002    0.000 {method 'values' of 'dict' objects}
+     1017    0.002    0.000    0.002    0.000 socket.py:731(readable)
+      570    0.001    0.000    0.003    0.000 enum.py:688(__call__)
+      489    0.001    0.000    0.002    0.000 timeout.py:206(start_connect)
+      489    0.001    0.000    0.005    0.000 models.py:770(is_redirect)
+        4    0.001    0.000    0.003    0.001 cd.py:20(encoding_unicode_range)
+     4527    0.001    0.000    0.001    0.000 timeout.py:134(_validate_timeout)
+      489    0.001    0.000    0.001    0.000 response.py:668(<setcomp>)
+      489    0.001    0.000    0.012    0.000 client.py:419(_close_conn)
+      489    0.001    0.000    0.002    0.000 timeout.py:249(read_timeout)
+      447    0.001    0.000    0.004    0.000 wait.py:74(do_poll)
+      998    0.001    0.000    0.002    0.000 {method 'extend' of 'list' objects}
+       37    0.001    0.000    0.005    0.000 filepost.py:51(encode_multipart_formdata)
+     1251    0.001    0.000    0.001    0.000 <string>:2(__init__)
+     1992    0.001    0.000    0.001    0.000 {method 'count' of 'str' objects}
+       42    0.001    0.000    1.228    0.029 connection.py:27(create_connection)
+       42    0.001    0.000    0.011    0.000 connectionpool.py:178(__init__)
+      395    0.001    0.000    0.002    0.000 response.py:959(closed)
+      489    0.001    0.000    0.002    0.000 cookiejar.py:1290(_cookies_for_request)
+        8    0.001    0.000    0.001    0.000 {built-in method marshal.loads}
+      587    0.001    0.000    0.003    0.000 {function SocketIO.close at 0x7ffa7fd679c0}
+     1629    0.001    0.000    0.001    0.000 {method '__enter__' of '_thread.lock' objects}
+      489    0.001    0.000    0.002    0.000 poolmanager.py:374(_merge_pool_kwargs)
+      210    0.001    0.000    0.003    0.000 enum.py:1514(__or__)
+       32    0.001    0.000    0.001    0.000 {built-in method builtins.__build_class__}
+     1467    0.001    0.000    0.001    0.000 utils.py:206(<genexpr>)
+      489    0.001    0.000    0.012    0.000 utils.py:263(extract_zipped_paths)
+       27    0.001    0.000   44.738    1.657 path.py:388(lstat)
+      978    0.001    0.000    0.002    0.000 structures.py:60(__len__)
+       45    0.001    0.000   59.433    1.321 path.py:530(mkdir)
+     3020    0.001    0.000    0.001    0.000 {method 'values' of 'collections.OrderedDict' objects}
+      978    0.001    0.000    0.001    0.000 {method 'read' of '_io.StringIO' objects}
+     4062    0.001    0.000    0.001    0.000 {method 'isascii' of 'str' objects}
+      810    0.001    0.000    0.020    0.000 pathlib.py:765(__truediv__)
+     1413    0.001    0.000    0.001    0.000 pathlib.py:792(is_absolute)
+      489    0.001    0.000    0.002    0.000 parse.py:193(_userinfo)
+      442    0.001    0.000    0.007    0.000 path.py:150(path)
+      489    0.001    0.000    0.002    0.000 sessions.py:91(merge_hooks)
+       37    0.001    0.000    0.010    0.000 models.py:136(_encode_files)
+     3131    0.001    0.000    0.001    0.000 {method 'pop' of 'dict' objects}
+      999    0.001    0.000    0.001    0.000 hooks.py:16(<dictcomp>)
+      699    0.001    0.000    0.002    0.000 queue.py:254(_get)
+      978    0.001    0.000    0.002    0.000 message.py:211(is_multipart)
+      489    0.001    0.000    0.002    0.000 feedparser.py:208(_pop_message)
+     2905    0.001    0.000    0.001    0.000 {method 'replace' of 'str' objects}
+       91    0.001    0.000  117.359    1.290 sessions.py:626(post)
+       84    0.001    0.000    0.001    0.000 socket.py:220(__init__)
+      978    0.001    0.000    0.001    0.000 response.py:323(<genexpr>)
+      489    0.001    0.000    0.002    0.000 hooks.py:22(dispatch_hook)
+      672    0.001    0.000    0.001    0.000 __init__.py:202(_checkLevel)
+      570    0.001    0.000    0.001    0.000 enum.py:1095(__new__)
+      489    0.001    0.000    0.002    0.000 models.py:573(prepare_content_length)
+      489    0.001    0.000    0.002    0.000 _internal_utils.py:38(unicode_is_ascii)
+       12    0.001    0.000   33.594    2.800 scheduler.py:213(get_jobs)
+       42    0.001    0.000    0.001    0.000 ssl.py:566(set_alpn_protocols)
+      909    0.001    0.000    0.001    0.000 queue.py:251(_put)
+      489    0.001    0.000    0.002    0.000 message.py:331(set_payload)
+      573    0.001    0.000    0.001    0.000 connection.py:165(host)
+      489    0.001    0.000    0.002    0.000 client.py:1234(_validate_method)
+    40/12    0.001    0.000    0.009    0.001 _parser.py:456(_parse_sub)
+     1302    0.001    0.000    0.001    0.000 {method 'write' of '_io.BytesIO' objects}
+     2334    0.001    0.000    0.002    0.000 {built-in method posix.fspath}
+      112    0.001    0.000    0.002    0.000 _compiler.py:243(_optimize_charset)
+    90/54    0.001    0.000  328.222    6.078 inject_tool.py:14(wrapper)
+     1044    0.001    0.000    0.001    0.000 pathlib.py:94(join_parsed_parts)
+      978    0.001    0.000    0.001    0.000 {method 'update' of 'collections.OrderedDict' objects}
+      447    0.001    0.000    0.016    0.000 connection.py:15(is_connection_dropped)
+     1647    0.001    0.000    0.001    0.000 __init__.py:1319(disable)
+      207    0.001    0.000    0.002    0.000 pathlib.py:777(parent)
+      684    0.001    0.000    0.001    0.000 {built-in method builtins.repr}
+     1020    0.001    0.000    0.001    0.000 <frozen posixpath>:41(_get_sep)
+     1730    0.001    0.000    0.001    0.000 {method '__exit__' of 'memoryview' objects}
+     1150    0.001    0.000    0.001    0.000 {built-in method builtins.min}
+        9    0.001    0.000   21.159    2.351 BasicClient.py:1166(submit)
+      978    0.001    0.000    0.001    0.000 {method 'extend' of 'collections.deque' objects}
+      702    0.001    0.000    0.001    0.000 enum.py:1507(_get_value)
+      126    0.001    0.000    0.001    0.000 threading.py:243(__init__)
+     1509    0.001    0.000    0.001    0.000 cookiejar.py:44(_debug)
+      189    0.001    0.000    0.009    0.000 pathlib.py:868(__new__)
+        9    0.001    0.000  135.799   15.089 transport.py:1058(puttree)
+       27    0.001    0.000   23.089    0.855 path.py:302(_lstat_mode)
+      126    0.001    0.000    0.001    0.000 idna.py:145(encode)
+      207    0.001    0.000    0.014    0.000 path.py:255(parent)
+     1965    0.001    0.000    0.001    0.000 response.py:244(__len__)
+      200    0.001    0.000    0.001    0.000 _parser.py:176(append)
+       27    0.001    0.000   30.456    1.128 BasicClient.py:872(simple_download)
+       36    0.001    0.000   56.001    1.556 BasicClient.py:897(simple_upload)
+      489    0.001    0.000    0.002    0.000 client.py:1243(_validate_path)
+     1020    0.001    0.000    0.001    0.000 timeout.py:130(resolve_default_timeout)
+      969    0.001    0.000    0.001    0.000 response.py:429(_decode)
+     1956    0.001    0.000    0.001    0.000 {method 'seek' of '_io.StringIO' objects}
+       42    0.001    0.000    0.555    0.013 socket.py:945(getaddrinfo)
+      489    0.001    0.000    0.001    0.000 request.py:134(set_file_position)
+       42    0.001    0.000    0.001    0.000 {built-in method today}
+     1956    0.001    0.000    0.001    0.000 cookies.py:117(info)
+     1956    0.001    0.000    0.001    0.000 {method 'items' of 'collections.OrderedDict' objects}
+      489    0.001    0.000    0.001    0.000 parser.py:17(__init__)
+       42    0.001    0.000    0.004    0.000 cookiejar.py:1486(_cookie_from_cookie_tuple)
+       84    0.001    0.000    0.001    0.000 cookiejar.py:1389(_normalized_cookie_tuples)
+     2175    0.001    0.000    0.001    0.000 {method 'isalnum' of 'str' objects}
+       42    0.001    0.000    2.032    0.048 ssl_.py:395(ssl_wrap_socket)
+       65    0.001    0.000    5.797    0.089 BasicClient.py:361(_task_safe)
+      489    0.001    0.000    0.003    0.000 <frozen _collections_abc>:815(__len__)
+      152    0.001    0.000    0.001    0.000 {method 'strftime' of 'datetime.date' objects}
+     2484    0.001    0.000    0.001    0.000 {method 'reverse' of 'list' objects}
+      489    0.001    0.000    0.001    0.000 {method 'sort' of 'list' objects}
+       42    0.001    0.000    0.003    0.000 connectionpool.py:1043(_new_conn)
+     2258    0.001    0.000    0.001    0.000 ssl.py:1145(_checkClosed)
+     1654    0.001    0.000    0.001    0.000 {method '__exit__' of '_thread.lock' objects}
+      528    0.001    0.000    0.001    0.000 {method '_checkReadable' of '_io._IOBase' objects}
+      489    0.001    0.000    0.010    0.000 parse.py:338(geturl)
+     1192    0.001    0.000    0.001    0.000 {method 'pop' of 'list' objects}
+       42    0.001    0.000    1.499    0.036 ssl.py:1375(do_handshake)
+      601    0.001    0.000    0.001    0.000 {method 'cast' of 'memoryview' objects}
+     1020    0.001    0.000    0.001    0.000 {method 'copy' of 'dict' objects}
+      978    0.001    0.000    0.001    0.000 utils.py:742(set_environ)
+      489    0.001    0.000    0.001    0.000 client.py:1230(_encode_request)
+      342    0.001    0.000    0.002    0.000 _structures.py:10(__hash__)
+       74    0.001    0.000    0.001    0.000 fields.py:295(render_headers)
+      108    0.001    0.000  122.560    1.135 path.py:418(is_dir)
+        9    0.001    0.000    0.012    0.001 legacy.py:8(detect)
+      692    0.001    0.000    0.001    0.000 _parser.py:240(__next)
+       27    0.001    0.000  231.704    8.582 transport.py:1111(put)
+      112    0.001    0.000    0.001    0.000 utils.py:133(super_len)
+      978    0.001    0.000    0.001    0.000 cookies.py:110(__init__)
+       63    0.001    0.000   73.271    1.163 BasicClient.py:947(checksum)
+       42    0.001    0.000    0.003    0.000 cookiejar.py:232(http2time)
+      210    0.001    0.000    0.002    0.000 socket.py:99(_intenum_converter)
+       42    0.001    0.000    0.001    0.000 ssl.py:604(minimum_version)
+       42    0.001    0.000    0.001    0.000 cookiejar.py:150(_str2time)
+     1020    0.001    0.000    0.001    0.000 timeout.py:231(connect_timeout)
+     2317    0.001    0.000    0.001    0.000 {built-in method builtins.chr}
+      263    0.001    0.000    0.001    0.000 utils.py:49(unicode_range)
+   136/40    0.001    0.000    0.001    0.000 _parser.py:178(getwidth)
+       42    0.001    0.000    0.001    0.000 client.py:849(__init__)
+       84    0.001    0.000    0.001    0.000 ssl.py:732(verify_mode)
+      978    0.001    0.000    0.001    0.000 connection.py:249(is_closed)
+      270    0.001    0.000    0.003    0.000 pathlib.py:546(__fspath__)
+      438    0.001    0.000    0.001    0.000 parse.py:421(_checknetloc)
+      764    0.001    0.000    0.001    0.000 ascii.py:25(decode)
+     1020    0.001    0.000    0.001    0.000 {method '__exit__' of '_thread.RLock' objects}
+        9    0.001    0.000    0.001    0.000 {built-in method posix.listdir}
+      164    0.001    0.000    0.001    0.000 {method 'sub' of 're.Pattern' objects}
+       42    0.001    0.000    0.002    0.000 queue.py:34(__init__)
+      171    0.001    0.000    0.004    0.000 version.py:68(__hash__)
+       56    0.001    0.000    0.001    0.000 {built-in method fromkeys}
+      451    0.001    0.000    0.001    0.000 {built-in method select.poll}
+      978    0.001    0.000    0.001    0.000 {method 'truncate' of '_io.StringIO' objects}
+       21    0.001    0.000    0.035    0.002 connectionpool.py:1170(_close_pool_connections)
+       20    0.001    0.000    0.002    0.000 <frozen importlib._bootstrap_external>:1607(find_spec)
+      111    0.001    0.000    0.001    0.000 fields.py:79(format_multipart_header_param)
+      117    0.001    0.000   44.652    0.382 path.py:426(is_file)
+       42    0.001    0.000    0.002    0.000 connection.py:501(__init__)
+       42    0.001    0.000    0.012    0.000 poolmanager.py:229(_new_pool)
+      489    0.001    0.000    0.001    0.000 {built-in method builtins.all}
+       36    0.001    0.000    0.001    0.000 decoder.py:31(__init__)
+      287    0.000    0.000    0.000    0.000 {method 'translate' of 'str' objects}
+       45    0.000    0.000   56.036    1.245 transport.py:461(chdir)
+       42    0.000    0.000    0.011    0.000 connectionpool.py:979(__init__)
+       42    0.000    0.000    1.507    0.036 ssl.py:511(wrap_socket)
+      764    0.000    0.000    0.000    0.000 {built-in method _codecs.ascii_decode}
+        8    0.000    0.000    0.001    0.000 _compiler.py:386(_mk_bitmap)
+       74    0.000    0.000    0.002    0.000 fields.py:264(_render_parts)
+       63    0.000    0.000    0.000    0.000 {built-in method _hashlib.openssl_sha256}
+       45    0.000    0.000    0.016    0.000 __init__.py:272(_compile)
+       45    0.000    0.000   59.440    1.321 transport.py:547(mkdir)
+      488    0.000    0.000    0.001    0.000 _parser.py:168(__getitem__)
+      981    0.000    0.000    0.000    0.000 {method 'keys' of 'dict' objects}
+      597    0.000    0.000    0.000    0.000 {built-in method _stat.S_ISDIR}
+      190    0.000    0.000    0.003    0.000 path.py:193(__str__)
+       12    0.000    0.000    0.001    0.000 _compiler.py:511(_compile_info)
+       74    0.000    0.000    0.002    0.000 fields.py:314(make_multipart)
+       84    0.000    0.000    0.005    0.000 cookiejar.py:1578(_cookies_from_attrs_set)
+       45    0.000    0.000   59.398    1.320 BasicClient.py:517(mkdir)
+      909    0.000    0.000    0.000    0.000 {method 'end' of 're.Match' objects}
+      342    0.000    0.000    0.001    0.000 _structures.py:39(__hash__)
+      234    0.000    0.000    0.014    0.000 pathlib.py:757(joinpath)
+       42    0.000    0.000    0.000    0.000 _collections.py:100(__setitem__)
+       27    0.000    0.000  118.648    4.394 transport.py:902(get)
+       42    0.000    0.000    0.000    0.000 {method 'getpeername' of '_socket.socket' objects}
+       63    0.000    0.000    0.000    0.000 {method 'hexdigest' of '_hashlib.HASH' objects}
+      452    0.000    0.000    0.001    0.000 _parser.py:261(get)
+      528    0.000    0.000    0.000    0.000 {method '_checkClosed' of '_io._IOBase' objects}
+      969    0.000    0.000    0.000    0.000 {method 'append' of 'collections.deque' objects}
+       42    0.000    0.000    0.000    0.000 calendar.py:653(timegm)
+       21    0.000    0.000    2.570    0.122 api.py:14(request)
+       42    0.000    0.000    0.000    0.000 _collections.py:141(clear)
+      526    0.000    0.000    0.000    0.000 {method 'getvalue' of '_io.BytesIO' objects}
+       12    0.000    0.000    0.006    0.000 _compiler.py:573(_code)
+       42    0.000    0.000    1.229    0.029 connection.py:194(_new_conn)
+       42    0.000    0.000    0.000    0.000 weakref.py:568(__init__)
+       42    0.000    0.000    0.001    0.000 adapters.py:135(__init__)
+        9    0.000    0.000    0.010    0.001 _strptime.py:309(_strptime)
+      610    0.000    0.000    0.000    0.000 {built-in method sys.audit}
+      489    0.000    0.000    0.000    0.000 {built-in method time.monotonic}
+       21    0.000    0.000    0.003    0.000 sessions.py:391(__init__)
+       21    0.000    0.000    2.570    0.122 api.py:103(post)
+       36    0.000    0.000   33.390    0.928 BasicClient.py:833(stat)
+       37    0.000    0.000    0.001    0.000 filepost.py:22(choose_boundary)
+       42    0.000    0.000    0.001    0.000 connection.py:130(__init__)
+      978    0.000    0.000    0.000    0.000 feedparser.py:124(__iter__)
+      111    0.000    0.000    0.002    0.000 filepost.py:29(iter_field_objects)
+      146    0.000    0.000    0.001    0.000 {function SocketIO.close at 0x7f25b932f9c0}
+        9    0.000    0.000    0.011    0.001 _strptime.py:558(_strptime_time)
+        8    0.000    0.000    0.000    0.000 {built-in method io.open_code}
+       12    0.000    0.000   33.551    2.796 BasicClient.py:1311(poll_active)
+        8    0.000    0.000    0.003    0.000 <frozen importlib._bootstrap_external>:1007(get_code)
+      489    0.000    0.000    0.000    0.000 response.py:79(<listcomp>)
+      112    0.000    0.000    0.000    0.000 _compiler.py:216(_compile_charset)
+       65    0.000    0.000    0.000    0.000 BasicClient.py:355(<listcomp>)
+      146    0.000    0.000    0.001    0.000 {function SocketIO.close at 0x7fc73375f9c0}
+       42    0.000    0.000    0.000    0.000 retry.py:198(__init__)
+        8    0.000    0.000    0.003    0.000 <frozen importlib._bootstrap>:1054(_find_spec)
+       42    0.000    0.000    0.001    0.000 cookiejar.py:620(request_host)
+      139    0.000    0.000    0.000    0.000 parse.py:841(__missing__)
+       16    0.000    0.000    0.008    0.000 _strptime.py:238(pattern)
+        4    0.000    0.000    0.000    0.000 _strptime.py:107(__calc_date_time)
+      162    0.000    0.000    0.004    0.000 pathlib.py:1008(stat)
+        4    0.000    0.000    0.012    0.003 _strptime.py:1(<module>)
+       84    0.000    0.000    0.000    0.000 ssl_.py:176(resolve_cert_reqs)
+       74    0.000    0.000    0.000    0.000 <frozen codecs>:373(write)
+       18    0.000    0.000    0.001    0.000 <frozen os>:345(_walk)
+      489    0.000    0.000    0.000    0.000 {method 'pop' of 'set' objects}
+       54    0.000    0.000    0.000    0.000 {method 'update' of '_hashlib.HASH' objects}
+       42    0.000    0.000    0.001    0.000 ssl_.py:470(is_ipaddress)
+       42    0.000    0.000    0.000    0.000 poolmanager.py:199(__init__)
+       12    0.000    0.000    0.022    0.002 <frozen importlib._bootstrap>:1165(_find_and_load)
+       42    0.000    0.000    0.000    0.000 socket.py:505(detach)
+      120    0.000    0.000    0.001    0.000 {function SocketIO.close at 0x7f6cc86e39c0}
+       42    0.000    0.000    0.016    0.000 utils.py:27(convert_header_exceptions)
+      489    0.000    0.000    0.000    0.000 models.py:216(<genexpr>)
+       42    0.000    0.000    0.001    0.000 socket.py:515(family)
+      112    0.000    0.000    0.000    0.000 util.py:7(to_bytes)
+       42    0.000    0.000    0.000    0.000 connection.py:93(_set_socket_options)
+      210    0.000    0.000    0.000    0.000 {built-in method builtins.max}
+        9    0.000    0.000   21.168    2.352 scheduler.py:200(submit_job)
+       42    0.000    0.000    0.002    0.000 connectionpool.py:82(__init__)
+      336    0.000    0.000    0.000    0.000 _parser.py:256(match)
+        6    0.000    0.000    0.000    0.000 __init__.py:292(__init__)
+       16    0.000    0.000    0.001    0.000 <frozen importlib._bootstrap_external>:437(cache_from_source)
+       90    0.000    0.000    0.000    0.000 extendeddicts.py:209(__setattr__)
+      489    0.000    0.000    0.000    0.000 utils.py:580(iter_slices)
+       88    0.000    0.000    0.000    0.000 enum.py:193(__get__)
+       18    0.000    0.000    0.000    0.000 <frozen posixpath>:71(join)
+       54    0.000    0.000    0.001    0.000 pathlib.py:1261(is_file)
+      489    0.000    0.000    0.000    0.000 cookies.py:87(get_new_headers)
+      489    0.000    0.000    0.000    0.000 proxy.py:11(connection_requires_http_tunnel)
+       37    0.000    0.000    0.001    0.000 fields.py:199(from_tuples)
+      176    0.000    0.000    0.000    0.000 __init__.py:253(escape)
+       12    0.000    0.000    0.009    0.001 _parser.py:979(parse)
+        8    0.000    0.000    0.000    0.000 _parser.py:1006(parse_template)
+       42    0.000    0.000    1.507    0.036 ssl_.py:494(_ssl_wrap_socket_impl)
+        6    0.000    0.000    0.000    0.000 {function socket.close at 0x7f25b932ed40}
+       42    0.000    0.000    0.001    0.000 cookiejar.py:81(_timegm)
+       12    0.000    0.000    0.015    0.001 _compiler.py:740(compile)
+        4    0.000    0.000    0.012    0.003 _strptime.py:173(__init__)
+      438    0.000    0.000    0.000    0.000 {method 'isalpha' of 'str' objects}
+        8    0.000    0.000    0.002    0.000 <frozen importlib._bootstrap_external>:1467(_get_spec)
+       42    0.000    0.000    0.001    0.000 cookiejar.py:677(escape_path)
+      108    0.000    0.000    0.001    0.000 <frozen importlib._bootstrap_external>:126(_path_join)
+        9    0.000    0.000    0.001    0.000 <frozen posixpath>:486(relpath)
+       42    0.000    0.000    0.000    0.000 {method 'getsockopt' of '_socket.socket' objects}
+        6    0.000    0.000    0.000    0.000 {function socket.close at 0x7fc73375ed40}
+        8    0.000    0.000    0.021    0.003 <frozen importlib._bootstrap>:1120(_find_and_load_unlocked)
+      108    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:128(<listcomp>)
+        9    0.000    0.000    0.000    0.000 utils.py:261(identify_sig_or_bom)
+       48    0.000    0.000    0.000    0.000 extendeddicts.py:216(__getitem__)
+      206    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+       42    0.000    0.000    0.000    0.000 ssl.py:618(options)
+      489    0.000    0.000    0.000    0.000 adapters.py:399(add_headers)
+       21    0.000    0.000    0.036    0.002 weakref.py:585(__call__)
+       12    0.000    0.000    9.741    0.812 BasicClient.py:1120(_squeue_request)
+      489    0.000    0.000    0.000    0.000 connectionpool.py:340(_validate_conn)
+      117    0.000    0.000    0.001    0.000 transport.py:781(<lambda>)
+      498    0.000    0.000    0.000    0.000 typing.py:2287(cast)
+      111    0.000    0.000    0.001    0.000 fields.py:248(_render_part)
+       42    0.000    0.000    0.001    0.000 ssl.py:503(_encode_hostname)
+       42    0.000    0.000    0.000    0.000 timeout.py:176(from_float)
+       84    0.000    0.000    0.000    0.000 ssl.py:740(verify_mode)
+        5    0.000    0.000    0.000    0.000 {function socket.close at 0x7ffa7fd66d40}
+       18    0.000    0.000    0.001    0.000 exceptions.py:34(__init__)
+       21    0.000    0.000    0.000    0.000 scheduler.py:400(_convert_time)
+       74    0.000    0.000    0.000    0.000 fields.py:171(__init__)
+        4    0.000    0.000    0.003    0.001 _strptime.py:49(__init__)
+      200    0.000    0.000    0.001    0.000 _strptime.py:234(<genexpr>)
+        8    0.000    0.000    0.001    0.000 __init__.py:305(_compile_repl)
+       24    0.000    0.000    0.000    0.000 enum.py:1525(__and__)
+      104    0.000    0.000    0.001    0.000 calendar.py:60(__getitem__)
+       42    0.000    0.000    0.001    0.000 adapters.py:173(init_poolmanager)
+       36    0.000    0.000    0.001    0.000 pathlib.py:1245(is_dir)
+       42    0.000    0.000    0.001    0.000 adapters.py:360(close)
+        8    0.000    0.000    0.001    0.000 <frozen importlib._bootstrap_external>:567(_get_cached)
+       21    0.000    0.000    0.001    0.000 sessions.py:796(close)
+        8    0.000    0.000    0.017    0.002 <frozen importlib._bootstrap_external>:934(exec_module)
+       42    0.000    0.000    0.002    0.000 cookiejar.py:636(eff_request_host)
+       42    0.000    0.000    0.000    0.000 {method 'setsockopt' of '_socket.socket' objects}
+       84    0.000    0.000    0.000    0.000 cookiejar.py:459(strip_quotes)
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:179(_get_module_lock)
+        9    0.000    0.000    0.029    0.003 scheduler.py:424(_parse_time_string)
+       21    0.000    0.000    0.003    0.000 client.py:974(close)
+       42    0.000    0.000    0.000    0.000 ssl.py:622(options)
+       21    0.000    0.000    0.001    0.000 socket.py:495(_real_close)
+       42    0.000    0.000    0.000    0.000 ssl.py:632(hostname_checks_common_name)
+        9    0.000    0.000    0.029    0.003 {built-in method time.strptime}
+        6    0.000    0.000    0.000    0.000 log.py:46(format)
+       42    0.000    0.000    0.016    0.000 utils.py:12(disable_fc_logging)
+      291    0.000    0.000    0.000    0.000 {function HTTPResponse.flush at 0x7ffa334b27a0}
+       42    0.000    0.000    0.000    0.000 _collections.py:82(__init__)
+        8    0.000    0.000    0.000    0.000 path.py:626(_ls_to_st_mode)
+       42    0.000    0.000    0.000    0.000 {method '_set_alpn_protocols' of '_ssl._SSLContext' objects}
+       37    0.000    0.000    0.000    0.000 {built-in method posix.urandom}
+       42    0.000    0.000    0.013    0.000 ssl.py:492(__new__)
+       18    0.000    0.000    0.000    0.000 exceptions.py:17(__init__)
+      342    0.000    0.000    0.000    0.000 _structures.py:7(__repr__)
+       11    0.000    0.000    0.000    0.000 {built-in method unicodedata.name}
+      248    0.000    0.000    0.000    0.000 {method 'find' of 'bytearray' objects}
+       27    0.000    0.000    0.000    0.000 transport.py:759(has_magic)
+       12    0.000    0.000    0.002    0.000 __init__.py:965(handle)
+        8    0.000    0.000    0.001    0.000 <frozen importlib._bootstrap>:493(_init_module_attrs)
+      342    0.000    0.000    0.000    0.000 _structures.py:36(__repr__)
+       42    0.000    0.000    0.001    0.000 poolmanager.py:267(clear)
+       27    0.000    0.000    0.000    0.000 <frozen posixpath>:389(normpath)
+        6    0.000    0.000    0.001    0.000 utils.py:205(echo)
+        9    0.000    0.000   11.769    1.308 path.py:365(stat)
+       55    0.000    0.000    0.000    0.000 {built-in method builtins.sorted}
+        8    0.000    0.000    0.018    0.002 <frozen importlib._bootstrap>:666(_load_unlocked)
+      128    0.000    0.000    0.000    0.000 _parser.py:293(tell)
+        8    0.000    0.000    0.001    0.000 <frozen importlib._bootstrap_external>:1127(get_data)
+       28    0.000    0.000    0.000    0.000 _parser.py:86(opengroup)
+        4    0.000    0.000    0.000    0.000 {function socket.close at 0x7f6cc86e2d40}
+        9    0.000    0.000    0.013    0.001 models.py:790(apparent_encoding)
+       56    0.000    0.000    0.000    0.000 calendar.py:79(__getitem__)
+       56    0.000    0.000    0.001    0.000 _parser.py:453(_uniq)
+       21    0.000    0.000    0.001    0.000 utils.py:898(default_headers)
+        9    0.000    0.000   11.769    1.308 path.py:410(exists)
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:778(spec_from_file_location)
+       17    0.000    0.000    0.000    0.000 locale.py:479(_parse_localename)
+        6    0.000    0.000    0.001    0.000 log.py:13(emit)
+      126    0.000    0.000    0.000    0.000 {method 'split' of 'bytes' objects}
+       28    0.000    0.000    0.001    0.000 _parser.py:98(closegroup)
+        8    0.000    0.000    0.001    0.000 <frozen importlib._bootstrap>:566(module_from_spec)
+    20/12    0.000    0.000    0.000    0.000 _compiler.py:436(_get_literal_prefix)
+      156    0.000    0.000    0.000    0.000 _parser.py:164(__len__)
+        9    0.000    0.000    0.001    0.000 transport.py:999(payoff)
+       36    0.000    0.000    0.001    0.000 pathlib.py:1230(exists)
+       35    0.000    0.000    0.000    0.000 {method 'format' of 'str' objects}
+       24    0.000    0.000    0.001    0.000 _strptime.py:219(__seqToRE)
+        4    0.000    0.000    0.000    0.000 {built-in method time.tzset}
+       42    0.000    0.000    0.000    0.000 sessions.py:801(mount)
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1602(_get_spec)
+       42    0.000    0.000    0.000    0.000 socket.py:521(type)
+       42    0.000    0.000    0.000    0.000 sessions.py:807(<listcomp>)
+       42    0.000    0.000    0.001    0.000 connectionpool.py:1145(_normalize_host)
+       17    0.000    0.000    0.000    0.000 locale.py:594(getlocale)
+       42    0.000    0.000    0.000    0.000 cookies.py:49(get_full_url)
+        9    0.000    0.000    0.000    0.000 utils.py:955(guess_json_utf)
+       42    0.000    0.000    0.000    0.000 cookiejar.py:348(split_header_words)
+        9    0.000    0.000   11.412    1.268 BasicClient.py:1093(_submit_request)
+    46/23    0.000    0.000    0.010    0.000 {method 'throw' of 'generator' objects}
+      116    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:244(_verbose_message)
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:169(__enter__)
+       12    0.000    0.000    0.000    0.000 {method 'write' of '_io.TextIOWrapper' objects}
+       36    0.000    0.000    0.016    0.000 __init__.py:225(compile)
+        4    0.000    0.000    0.000    0.000 _strptime.py:90(<listcomp>)
+       20    0.000    0.000    0.000    0.000 _parser.py:316(_class_escape)
+       20    0.000    0.000    0.000    0.000 _parser.py:231(__init__)
+        6    0.000    0.000    0.003    0.000 __init__.py:1610(_log)
+        8    0.000    0.000    0.001    0.000 <frozen importlib._bootstrap_external>:727(_compile_bytecode)
+        6    0.000    0.000    0.002    0.000 __init__.py:1690(callHandlers)
+       42    0.000    0.000    0.000    0.000 cookiejar.py:1587(_process_rfc2109_cookies)
+       42    0.000    0.000    0.000    0.000 client.py:1251(_validate_host)
+       32    0.000    0.000    0.001    0.000 __init__.py:315(_subx)
+        8    0.000    0.000    0.000    0.000 _compiler.py:388(<listcomp>)
+      108    0.000    0.000    0.000    0.000 _parser.py:113(__init__)
+       16    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:132(_path_split)
+        9    0.000    0.000    0.000    0.000 models.py:234(__getitem__)
+        8    0.000    0.000    0.013    0.002 {built-in method builtins.exec}
+       32    0.000    0.000    0.000    0.000 {built-in method time.strftime}
+      171    0.000    0.000    0.000    0.000 {built-in method _stat.S_ISREG}
+      108    0.000    0.000    0.000    0.000 {built-in method _stat.S_ISLNK}
+       23    0.000    0.000    0.000    0.000 FirecrestException.py:26(__init__)
+       48    0.000    0.000    0.000    0.000 extendeddicts.py:44(__getattr__)
+        4    0.000    0.000    0.000    0.000 _strptime.py:83(<listcomp>)
+        9    0.000    0.000    0.000    0.000 utils.py:208(any_specified_encoding)
+       27    0.000    0.000    0.000    0.000 path.py:190(__fspath__)
+        9    0.000    0.000    0.000    0.000 {built-in method posix.scandir}
+        9    0.000    0.000    0.000    0.000 models.py:254(append)
+       74    0.000    0.000    0.000    0.000 {built-in method _codecs.utf_8_encode}
+       42    0.000    0.000    0.000    0.000 cookiejar.py:136(offset_from_tz_string)
+       42    0.000    0.000    0.000    0.000 connection.py:103(allowed_gai_family)
+       21    0.000    0.000    0.003    0.000 socket.py:499(close)
+        7    0.000    0.000    0.000    0.000 utils.py:81(is_punctuation)
+        6    0.000    0.000    0.001    0.000 __init__.py:1595(makeRecord)
+        3    0.000    0.000    0.000    0.000 {built-in method time.mktime}
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:100(acquire)
+       21    0.000    0.000    0.000    0.000 models.py:755(ok)
+       27    0.000    0.000    0.000    0.000 models.py:194(could_be_from_charset)
+       24    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:84(_unpack_uint32)
+        4    0.000    0.000    0.001    0.000 ascii.py:1(<module>)
+        9    0.000    0.000    0.000    0.000 cd.py:286(merge_coherence_ratios)
+        6    0.000    0.000    0.000    0.000 termui.py:465(style)
+        4    0.000    0.000    0.000    0.000 _strptime.py:91(<listcomp>)
+       18    0.000    0.000    0.000    0.000 <frozen posixpath>:397(abspath)
+        9    0.000    0.000    0.000    0.000 <frozen genericpath>:69(commonprefix)
+       17    0.000    0.000    0.000    0.000 locale.py:396(normalize)
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:71(__init__)
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:125(release)
+        9    0.000    0.000    0.000    0.000 __init__.py:208(findall)
+       74    0.000    0.000    0.000    0.000 <frozen codecs>:348(__init__)
+       42    0.000    0.000    0.000    0.000 client.py:895(_get_hostport)
+       84    0.000    0.000    0.000    0.000 {built-in method builtins.iter}
+       12    0.000    0.000    0.000    0.000 _compiler.py:467(_get_charset_prefix)
+        6    0.000    0.000    0.000    0.000 __init__.py:1561(findCaller)
+       21    0.000    0.000    0.000    0.000 models.py:994(raise_for_status)
+        6    0.000    0.000    0.003    0.000 __init__.py:1491(warning)
+       32    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:134(<genexpr>)
+       17    0.000    0.000    0.000    0.000 {built-in method _locale.setlocale}
+       90    0.000    0.000    0.000    0.000 extendeddicts.py:55(__setattr__)
+       80    0.000    0.000    0.000    0.000 _parser.py:83(groups)
+       24    0.000    0.000    0.000    0.000 _parser.py:274(getuntil)
+       62    0.000    0.000    0.000    0.000 {built-in method _thread.allocate_lock}
+       42    0.000    0.000    0.000    0.000 cookiejar.py:1692(clear)
+       17    0.000    0.000    0.000    0.000 _strptime.py:26(_getlang)
+       24    0.000    0.000    0.000    0.000 _parser.py:304(checkgroupname)
+       99    0.000    0.000    0.000    0.000 {method 'startswith' of 'bytes' objects}
+       42    0.000    0.000    0.000    0.000 {method 'append' of 'bytearray' objects}
+       84    0.000    0.000    0.000    0.000 _request_methods.py:51(__init__)
+       11    0.000    0.000    0.000    0.000 utils.py:197(is_unprintable)
+        4    0.000    0.000    0.003    0.001 cd.py:74(encoding_languages)
+       70    0.000    0.000    0.000    0.000 {method 'rfind' of 'str' objects}
+       18    0.000    0.000    0.000    0.000 __init__.py:194(_is_internal_frame)
+       42    0.000    0.000    0.000    0.000 ssl_.py:199(resolve_ssl_version)
+        9    0.000    0.000    0.002    0.000 transport.py:457(_get_path)
+       37    0.000    0.000    0.000    0.000 {built-in method binascii.hexlify}
+       21    0.000    0.000    0.001    0.000 sessions.py:456(__exit__)
+        9    0.000    0.000    0.000    0.000 models.py:11(__init__)
+        8    0.000    0.000    0.002    0.000 <frozen importlib._bootstrap_external>:1499(find_spec)
+        6    0.000    0.000    0.002    0.000 __init__.py:1636(handle)
+        6    0.000    0.000    0.000    0.000 log.py:17(emit)
+       24    0.000    0.000    0.000    0.000 {method 'groupdict' of 're.Match' objects}
+       16    0.000    0.000    0.014    0.001 <frozen importlib._bootstrap>:233(_call_with_frames_removed)
+       42    0.000    0.000    0.000    0.000 {method 'extend' of 'bytearray' objects}
+        9    0.000    0.000    0.000    0.000 utils.py:283(iana_name)
+        9    0.000    0.000    0.000    0.000 transport.py:452(getcwd)
+        6    0.000    0.000    0.000    0.000 _compat.py:591(func)
+       48    0.000    0.000    0.000    0.000 _parser.py:376(_escape)
+        8    0.000    0.000    0.000    0.000 __init__.py:89(find_spec)
+       16    0.000    0.000    0.001    0.000 <frozen importlib._bootstrap>:392(cached)
+        4    0.000    0.000    0.000    0.000 wait.py:95(wait_for_socket)
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:642(_classify_pyc)
+        4    0.000    0.000    0.000    0.000 _strptime.py:95(__calc_am_pm)
+        9    0.000    0.000    0.000    0.000 {built-in method builtins.round}
+        4    0.000    0.000    0.000    0.000 _strptime.py:152(__calc_timezone)
+        8    0.000    0.000    0.004    0.001 <frozen importlib._bootstrap>:1192(_gcd_import)
+       84    0.000    0.000    0.000    0.000 retry.py:238(<genexpr>)
+       36    0.000    0.000    0.000    0.000 {method 'tell' of '_io.BufferedReader' objects}
+        4    0.000    0.000    0.000    0.000 _strptime.py:84(<listcomp>)
+       18    0.000    0.000    0.000    0.000 <frozen posixpath>:60(isabs)
+        9    0.000    0.000    0.000    0.000 <frozen os>:282(walk)
+       42    0.000    0.000    0.000    0.000 adapters.py:73(__init__)
+        6    0.000    0.000    0.000    0.000 <frozen posixpath>:117(splitext)
+        8    0.000    0.000    0.004    0.001 __init__.py:108(import_module)
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:173(__exit__)
+       11    0.000    0.000    0.000    0.000 utils.py:142(is_cjk)
+       18    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:1207(_handle_fromlist)
+        6    0.000    0.000    0.000    0.000 __init__.py:674(format)
+       27    0.000    0.000    0.000    0.000 {built-in method posix._path_normpath}
+       36    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:140(_path_stat)
+       64    0.000    0.000    0.000    0.000 utils.py:194(<genexpr>)
+        9    0.000    0.000    0.000    0.000 extendeddicts.py:28(__init__)
+        4    0.000    0.000    0.004    0.001 utils.py:240(is_multi_byte_encoding)
+       48    0.000    0.000    0.000    0.000 {method 'toordinal' of 'datetime.date' objects}
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:198(cb)
+        3    0.000    0.000    0.000    0.000 _compat.py:243(_force_correct_text_stream)
+       42    0.000    0.000    0.000    0.000 queue.py:245(_init)
+        4    0.000    0.000    0.001    0.000 _strptime.py:80(__calc_weekday)
+       42    0.000    0.000    0.000    0.000 {method 'clear' of 'collections.OrderedDict' objects}
+      126    0.000    0.000    0.000    0.000 {method 'gettimeout' of '_socket.socket' objects}
+        4    0.000    0.000    0.000    0.000 wait.py:82(_have_working_poll)
+       76    0.000    0.000    0.000    0.000 {method 'index' of 'str' objects}
+        6    0.000    0.000    0.000    0.000 __init__.py:942(format)
+       12    0.000    0.000    0.000    0.000 scheduler.py:389(<dictcomp>)
+       18    0.000    0.000    0.000    0.000 utils.py:361(cut_sequence_chunks)
+       42    0.000    0.000    0.000    0.000 connection.py:184(host)
+       12    0.000    0.000    0.000    0.000 {built-in method _sre.compile}
+       24    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1424(_path_importer_cache)
+       18    0.000    0.000    0.000    0.000 models.py:121(language)
+        6    0.000    0.000    0.000    0.000 globals.py:55(resolve_color_default)
+        6    0.000    0.000    0.000    0.000 __init__.py:164(<lambda>)
+       27    0.000    0.000    0.000    0.000 {method 'write' of '_io.BufferedWriter' objects}
+        6    0.000    0.000    0.000    0.000 _compat.py:497(_is_jupyter_kernel_output)
+       42    0.000    0.000    0.000    0.000 ssl.py:1149(_check_connected)
+        6    0.000    0.000    0.000    0.000 _compat.py:504(should_strip_ansi)
+        6    0.000    0.000    0.000    0.000 <frozen posixpath>:140(basename)
+       18    0.000    0.000    0.000    0.000 models.py:228(__init__)
+       32    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:1030(__exit__)
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:357(__init__)
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:599(_check_name_wrapper)
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:675(_validate_timestamp_pyc)
+        8    0.000    0.000    0.000    0.000 {built-in method _imp.is_builtin}
+       44    0.000    0.000    0.000    0.000 _compiler.py:31(_combine_flags)
+       42    0.000    0.000    0.000    0.000 {built-in method _socket.getdefaulttimeout}
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:748(find_spec)
+       32    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:1026(__enter__)
+       24    0.000    0.000    0.000    0.000 _compiler.py:570(isstring)
+       70    0.000    0.000    0.000    0.000 {function HTTPResponse.flush at 0x7f25678fe0c0}
+        4    0.000    0.000    0.001    0.000 _strptime.py:88(__calc_month)
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:920(find_spec)
+       48    0.000    0.000    0.000    0.000 {built-in method _imp.acquire_lock}
+        4    0.000    0.000    0.000    0.000 _parser.py:1015(addgroup)
+       58    0.000    0.000    0.000    0.000 {function HTTPResponse.flush at 0x7f6c7ad16200}
+        6    0.000    0.000    0.000    0.000 __init__.py:440(_format)
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:159(_path_isfile)
+       70    0.000    0.000    0.000    0.000 {function HTTPResponse.flush at 0x7fc6e5d9a160}
+       42    0.000    0.000    0.000    0.000 {method 'index' of 'list' objects}
+       12    0.000    0.000    0.000    0.000 _parser.py:963(fix_flags)
+       12    0.000    0.000    0.000    0.000 _parser.py:77(__init__)
+       21    0.000    0.000    0.000    0.000 utils.py:889(default_user_agent)
+        6    0.000    0.000    0.000    0.000 termui.py:452(_interpret_color)
+        6    0.000    0.000    0.000    0.000 <frozen genericpath>:121(_splitext)
+        6    0.000    0.000    0.000    0.000 globals.py:21(get_current_context)
+        8    0.000    0.000    0.000    0.000 {built-in method _imp.find_frozen}
+       21    0.000    0.000    0.000    0.000 scheduler.py:361(transport)
+        3    0.000    0.000    0.000    0.000 _compat.py:305(_force_correct_text_writer)
+       32    0.000    0.000    0.000    0.000 _compiler.py:428(_get_iscased)
+        4    0.000    0.000    0.000    0.000 parse.py:919(_byte_quoter_factory)
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1146(path_stats)
+        4    0.000    0.000    0.000    0.000 parse.py:834(__init__)
+       48    0.000    0.000    0.000    0.000 {built-in method _imp.release_lock}
+        3    0.000    0.000    0.000    0.000 _compat.py:165(_is_binary_writer)
+       12    0.000    0.000    0.000    0.000 __init__.py:922(acquire)
+        6    0.000    0.000    0.000    0.000 _compat.py:579(isatty)
+        6    0.000    0.000    0.000    0.000 {method 'isatty' of '_io.TextIOWrapper' objects}
+        3    0.000    0.000    0.000    0.000 _compat.py:45(is_ascii_encoding)
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:48(_new_module)
+        6    0.000    0.000    0.000    0.000 weakref.py:451(get)
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:150(_path_is_mode_type)
+        6    0.000    0.000    0.000    0.000 __init__.py:652(usesTime)
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1097(__init__)
+       18    0.000    0.000    0.000    0.000 <frozen posixpath>:52(normcase)
+       11    0.000    0.000    0.000    0.000 utils.py:72(is_ascii)
+       18    0.000    0.000    0.000    0.000 __init__.py:815(filter)
+        3    0.000    0.000    0.000    0.000 _compat.py:351(get_text_stdout)
+       12    0.000    0.000    0.000    0.000 BasicClient.py:1337(<listcomp>)
+       25    0.000    0.000    0.000    0.000 transport.py:445(close)
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:180(_path_isabs)
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:1101(_sanity_check)
+        8    0.000    0.000    0.000    0.000 <frozen os>:1081(__subclasshook__)
+       48    0.000    0.000    0.000    0.000 {built-in method _sre.unicode_iscased}
+        6    0.000    0.000    0.000    0.000 __init__.py:447(format)
+        9    0.000    0.000    0.000    0.000 <frozen posixpath>:508(<listcomp>)
+        4    0.000    0.000    0.000    0.000 {method 'union' of 'frozenset' objects}
+        6    0.000    0.000    0.000    0.000 __init__.py:658(formatMessage)
+       28    0.000    0.000    0.000    0.000 {built-in method _thread.get_ident}
+       25    0.000    0.000    0.000    0.000 transport.py:438(open)
+       20    0.000    0.000    0.000    0.000 _strptime.py:210(<genexpr>)
+       24    0.000    0.000    0.000    0.000 {built-in method from_bytes}
+       12    0.000    0.000    0.000    0.000 __init__.py:929(release)
+        6    0.000    0.000    0.000    0.000 __init__.py:432(usesTime)
+       42    0.000    0.000    0.000    0.000 {method 'fileno' of '_socket.socket' objects}
+        3    0.000    0.000    0.000    0.000 _compat.py:214(_stream_is_misconfigured)
+        4    0.000    0.000    0.000    0.000 _strptime.py:30(LocaleTime)
+        4    0.000    0.000    0.000    0.000 utils.py:192(is_unicode_range_secondary)
+       24    0.000    0.000    0.000    0.000 {method 'isidentifier' of 'str' objects}
+        7    0.000    0.000    0.000    0.000 {built-in method unicodedata.category}
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:165(__init__)
+        6    0.000    0.000    0.000    0.000 {built-in method posix.getpid}
+        9    0.000    0.000    0.000    0.000 {built-in method builtins.sum}
+        6    0.000    0.000    0.000    0.000 threading.py:1453(current_thread)
+        4    0.000    0.000    0.000    0.000 {built-in method builtins.setattr}
+       23    0.000    0.000    0.000    0.000 FirecrestException.py:30(responses)
+        4    0.000    0.000    0.000    0.000 _strptime.py:128(<listcomp>)
+        6    0.000    0.000    0.000    0.000 threading.py:1152(name)
+        4    0.000    0.000    0.000    0.000 _strptime.py:170(TimeRE)
+       27    0.000    0.000    0.000    0.000 models.py:201(<listcomp>)
+       24    0.000    0.000    0.000    0.000 path.py:645(<lambda>)
+        6    0.000    0.000    0.000    0.000 __init__.py:123(getLevelName)
+        4    0.000    0.000    0.010    0.002 _strptime.py:261(compile)
+        6    0.000    0.000    0.000    0.000 _compat.py:493(strip_ansi)
+        3    0.000    0.000    0.000    0.000 _compat.py:232(_is_compatible_text_stream)
+       12    0.000    0.000    0.000    0.000 scheduler.py:110(logger)
+        9    0.000    0.000    0.000    0.000 transport.py:417(payoff_override)
+        4    0.000    0.000    0.000    0.000 _compiler.py:398(_simple)
+       24    0.000    0.000    0.000    0.000 path.py:647(<lambda>)
+       24    0.000    0.000    0.000    0.000 path.py:646(<lambda>)
+        4    0.000    0.000    0.000    0.000 ascii.py:13(Codec)
+       12    0.000    0.000    0.000    0.000 BasicClient.py:1124(<listcomp>)
+        4    0.000    0.000    0.000    0.000 {built-in method builtins.locals}
+        9    0.000    0.000    0.000    0.000 {method 'findall' of 're.Pattern' objects}
+       17    0.000    0.000    0.000    0.000 {function DefaultFieldsAttributeDict.__getitem__ at 0x7f25b9cd42c0}
+       17    0.000    0.000    0.000    0.000 {function DefaultFieldsAttributeDict.__getitem__ at 0x7fc7341002c0}
+        9    0.000    0.000    0.000    0.000 contextlib.py:763(__init__)
+        9    0.000    0.000    0.000    0.000 models.py:274(best)
+        6    0.000    0.000    0.000    0.000 _compat.py:223(_is_compat_stream_attr)
+        6    0.000    0.000    0.000    0.000 {method 'flush' of '_io.TextIOWrapper' objects}
+        9    0.000    0.000    0.000    0.000 <frozen posixpath>:509(<listcomp>)
+        6    0.000    0.000    0.000    0.000 __init__.py:368(getMessage)
+       18    0.000    0.000    0.000    0.000 {method 'is_dir' of 'posix.DirEntry' objects}
+        3    0.000    0.000    0.000    0.000 weakref.py:427(__setitem__)
+        8    0.000    0.000    0.000    0.000 {method 'translate' of 'bytearray' objects}
+        1    0.000    0.000    0.000    0.000 {method 'seek' of '_io.BufferedReader' objects}
+        6    0.000    0.000    0.000    0.000 _compat.py:610(<lambda>)
+        3    0.000    0.000    0.000    0.000 {built-in method _codecs.lookup}
+        4    0.000    0.000    0.000    0.000 cd.py:51(<listcomp>)
+        6    0.000    0.000    0.000    0.000 {method 'capitalize' of 'str' objects}
+        9    0.000    0.000    0.000    0.000 cd.py:300(<listcomp>)
+       20    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:71(_relax_case)
+        9    0.000    0.000    0.000    0.000 {method 'count' of 'list' objects}
+        9    0.000    0.000    0.000    0.000 models.py:149(chaos)
+        8    0.000    0.000    0.000    0.000 {built-in method _imp._fix_co_filename}
+        4    0.000    0.000    0.000    0.000 <frozen codecs>:260(__init__)
+        4    0.000    0.000    0.000    0.000 ascii.py:34(StreamConverter)
+        9    0.000    0.000    0.000    0.000 {method '__exit__' of 'posix.ScandirIterator' objects}
+        4    0.000    0.000    0.000    0.000 ascii.py:20(IncrementalEncoder)
+       12    0.000    0.000    0.000    0.000 {function socket.detach at 0x7fc73375ede0}
+        9    0.000    0.000    0.000    0.000 models.py:167(raw)
+       21    0.000    0.000    0.000    0.000 sessions.py:453(__enter__)
+        6    0.000    0.000    0.000    0.000 {built-in method sys._getframe}
+       11    0.000    0.000    0.000    0.000 {method 'isspace' of 'str' objects}
+       12    0.000    0.000    0.000    0.000 {function socket.detach at 0x7f25b932ede0}
+        9    0.000    0.000    0.000    0.000 models.py:88(encoding)
+        4    0.000    0.000    0.000    0.000 ascii.py:24(IncrementalDecoder)
+        9    0.000    0.000    0.000    0.000 {method 'add' of 'set' objects}
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1122(get_filename)
+        9    0.000    0.000    0.000    0.000 contextlib.py:769(__exit__)
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:413(has_location)
+        9    0.000    0.000    0.000    0.000 contextlib.py:766(__enter__)
+        8    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:931(create_module)
+        5    0.000    0.000    0.000    0.000 {function DefaultFieldsAttributeDict.__getitem__ at 0x7f6cc90842c0}
+       10    0.000    0.000    0.000    0.000 {function socket.detach at 0x7ffa7fd66de0}
+        4    0.000    0.000    0.000    0.000 ascii.py:28(StreamWriter)
+        7    0.000    0.000    0.000    0.000 {method 'isprintable' of 'str' objects}
+        8    0.000    0.000    0.000    0.000 calendar.py:55(<lambda>)
+        4    0.000    0.000    0.000    0.000 _parser.py:172(__setitem__)
+        4    0.000    0.000    0.000    0.000 enum.py:1257(value)
+        8    0.000    0.000    0.000    0.000 {function socket.detach at 0x7f6cc86e2de0}
+        4    0.000    0.000    0.000    0.000 ascii.py:31(StreamReader)
+        4    0.000    0.000    0.000    0.000 {built-in method _sre.unicode_tolower}
+        3    0.000    0.000    0.000    0.000 _compat.py:569(_get_windows_console_stream)
+        4    0.000    0.000    0.000    0.000 __init__.py:96(<lambda>)
+        3    0.000    0.000    0.000    0.000 {method 'weekday' of 'datetime.date' objects}
+
+
