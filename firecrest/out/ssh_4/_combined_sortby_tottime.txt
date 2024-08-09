@@ -1,0 +1,754 @@
+Thu Aug  8 15:32:49 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/exec_command_wait_bytes-026d1d5d-602e-4a24-b896-9008149731d8.prof
+Thu Aug  8 15:33:40 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/close-e1f802cd-e8e0-4f94-b764-8898be34fb29.prof
+Thu Aug  8 15:32:47 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/chdir-4ed00de6-38a3-48b2-a76f-2112bec5ecd4.prof
+Thu Aug  8 15:32:50 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/mkdir-a2503aec-1f15-4ab4-8cd8-22cf844eff13.prof
+Thu Aug  8 15:34:15 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/close-f308a2fa-57df-4f57-b67c-b674f77c5460.prof
+Thu Aug  8 15:32:48 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/put-1b155298-7e30-4120-b275-b42291801f14.prof
+Thu Aug  8 15:32:50 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/getcwd-2b35f3a0-c2b8-4b88-ba44-b796694f8086.prof
+Thu Aug  8 15:32:44 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/mkdir-19857bde-8710-45ea-97e1-fb7d0c95b156.prof
+Thu Aug  8 15:32:46 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/exec_command_wait_bytes-70318bf8-228f-48a3-aba2-fa6cc0b61b67.prof
+Thu Aug  8 15:34:13 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/get-97ab4670-a4cd-4ae7-88ee-cb2795ded218.prof
+Thu Aug  8 15:33:39 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/exec_command_wait_bytes-23259e2f-282e-4926-b814-502fd92e2275.prof
+Thu Aug  8 15:33:36 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/open-3d293215-0f93-44eb-9b95-36942c9e6216.prof
+Thu Aug  8 15:32:49 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/chdir-35e3c2e1-e2dd-4ca7-97b7-3376b44bf6be.prof
+Thu Aug  8 15:34:15 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/get-320ae634-5c38-43b8-9393-b03823604c8e.prof
+Thu Aug  8 15:32:44 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/put-60474387-6ce4-42b1-8bb6-e4ffc1110855.prof
+Thu Aug  8 15:34:15 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/get-b6498517-4b64-498b-8b60-4898862691cd.prof
+Thu Aug  8 15:32:50 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/close-9dce186e-b4e0-4652-9478-e3ec05726fbe.prof
+Thu Aug  8 15:32:48 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/mkdir-5bb34a5f-eaf3-4223-a6ed-5a705d8304c2.prof
+Thu Aug  8 15:33:05 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/submit_job-1a34240f-4da7-45ff-ad7e-8d61c029ac4d.prof
+Thu Aug  8 15:32:46 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/mkdir-75e61300-b100-4791-8a48-79d2fa68ea33.prof
+Thu Aug  8 15:33:24 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/get_jobs-fb1bcb46-b1ca-4fa2-8e2e-adbc8e7fe3dd.prof
+Thu Aug  8 15:33:07 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/exec_command_wait_bytes-b0599fa6-a496-4036-bfad-3a6bb41c7d81.prof
+Thu Aug  8 15:32:49 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/chdir-4d304810-efdd-49c4-9b32-307d50ea1dbf.prof
+Thu Aug  8 15:32:45 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/put-254cf83b-2e6a-4d42-a8ad-8af136e9a2f1.prof
+Thu Aug  8 15:32:50 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/put-d4e246dc-3bd1-411f-8879-245b3da2c65c.prof
+Thu Aug  8 15:32:45 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/put-179f8849-d903-4ea3-aaa9-821d74259882.prof
+Thu Aug  8 15:33:40 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/get-f32fd00e-415d-42b3-9b71-38dc4c2e7e52.prof
+Thu Aug  8 15:33:11 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/close-3049d158-47da-4a06-8b83-1249e0bceb77.prof
+Thu Aug  8 15:34:14 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/chdir-45a3fadd-41cd-47f9-86bf-506d8353bd7f.prof
+Thu Aug  8 15:33:59 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/open-4f6a5986-32c3-4eea-a5fa-1f6f28aaf2da.prof
+Thu Aug  8 15:32:50 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/put-0dca4854-cf7e-4e0b-a5fc-b55a37038df1.prof
+Thu Aug  8 15:34:13 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/get-6c58e7d4-a555-4d77-9484-b356c0f6d2de.prof
+Thu Aug  8 15:33:03 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/open-6e2ce2a2-9e9e-4958-85be-b9abd566accf.prof
+Thu Aug  8 15:32:46 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/chdir-eda92390-44bc-4d24-bf0a-794c836a5305.prof
+Thu Aug  8 15:33:38 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/exec_command_wait_bytes-5bad8a3c-8c3f-48de-96bb-fddf736ffcc7.prof
+Thu Aug  8 15:33:23 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/open-635f5c61-f8a0-4ea9-9c65-2366f9048cea.prof
+Thu Aug  8 15:32:46 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/mkdir-1402d606-3536-496a-9701-d60b45c37707.prof
+Thu Aug  8 15:32:44 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/chdir-12c6f948-9e15-40cc-896a-9b6dbd8e1c6b.prof
+Thu Aug  8 15:34:12 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/open-1b10ca64-1a88-44f9-a5b2-605e1c28d888.prof
+Thu Aug  8 15:32:49 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/mkdir-e709d70e-d48b-4754-a50e-faf50ba0dc9e.prof
+Thu Aug  8 15:32:48 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/mkdir-d1b8a057-a7b8-4bde-ba86-3f142a1adca1.prof
+Thu Aug  8 15:34:13 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/chdir-52d9dea6-649a-4094-b6e5-59f29ad26554.prof
+Thu Aug  8 15:32:44 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/getcwd-435a637c-8638-480b-a707-0aa7531edd3f.prof
+Thu Aug  8 15:32:46 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/put-262524ee-4fde-415f-af19-9bb74f3af307.prof
+Thu Aug  8 15:33:39 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/chdir-f8483348-e43f-41e4-b3c0-2b10500c4440.prof
+Thu Aug  8 15:32:46 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/chdir-5dba101e-de11-403e-8697-82a9b6ef3287.prof
+Thu Aug  8 15:32:43 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/open-a6a35646-b0c2-49c1-ba40-c54d373610c3.prof
+Thu Aug  8 15:33:03 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/chdir-56193867-ca08-4a1b-9658-9f0da53e8b2a.prof
+Thu Aug  8 15:33:24 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/exec_command_wait_bytes-42b20649-0075-435b-8c39-cd3c70b33c3f.prof
+Thu Aug  8 15:32:49 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/chdir-71cc2fa7-379f-41e2-8e79-6c1a26dc81f6.prof
+Thu Aug  8 15:32:48 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/chdir-0184dc24-1095-442f-946d-80280ed82002.prof
+Thu Aug  8 15:32:47 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/mkdir-4fd44cbf-95ae-46a1-9193-a8e64f9d9fac.prof
+Thu Aug  8 15:33:07 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/submit_job-168b410b-4242-4ebc-8528-9ceef5730262.prof
+Thu Aug  8 15:33:40 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/get-03e9c3d6-0cdf-4f08-b134-23a7b278da41.prof
+Thu Aug  8 15:34:15 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/get-3409b9a9-d3fe-49fb-bfa2-581be44ce13a.prof
+Thu Aug  8 15:32:46 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/chdir-fb44eea1-b6af-45c6-a6d3-d26a0cb0fbb2.prof
+Thu Aug  8 15:32:46 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/put-11dc41fb-f76e-4db3-bf17-d159c7519347.prof
+Thu Aug  8 15:32:48 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/getcwd-8922d96d-b7ab-4202-a257-45bb7bbff481.prof
+Thu Aug  8 15:32:48 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/put-7b53ec59-ad21-4240-bb82-aa32c387d13b.prof
+Thu Aug  8 15:33:59 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/get_jobs-1acf4012-f1da-446f-8094-d6e0e9a14ddb.prof
+Thu Aug  8 15:33:05 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/exec_command_wait_bytes-8845e632-edac-4951-bce9-92431f3fc3ba.prof
+Thu Aug  8 15:32:47 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/exec_command_wait_bytes-23339bea-c364-4f3c-b55a-5e5f59e1dae0.prof
+Thu Aug  8 15:32:46 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/chdir-dd169006-d5f4-4495-bb20-5ee2056e5236.prof
+Thu Aug  8 15:33:11 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/exec_command_wait_bytes-b381acf7-cc4b-407d-a1b2-c392403619d9.prof
+Thu Aug  8 15:33:59 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/close-d732650c-632f-4d58-affc-dc9dfa698c10.prof
+Thu Aug  8 15:33:38 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/get-8ae2c556-12f2-4520-b825-1645638631e4.prof
+Thu Aug  8 15:32:46 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/put-817f25ba-d860-4b34-bc6f-e5eae2185c00.prof
+Thu Aug  8 15:33:59 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/exec_command_wait_bytes-fbc395ef-8c65-4825-9374-e3d3c9d54936.prof
+Thu Aug  8 15:33:40 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/get-06eb447a-5045-4bef-8467-ce1462bc826b.prof
+Thu Aug  8 15:33:07 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/chdir-b24d60af-2eae-4075-a102-278ab43615b7.prof
+Thu Aug  8 15:32:44 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/exec_command_wait_bytes-26fc6e35-2853-4ed8-a779-63d6b901f49a.prof
+Thu Aug  8 15:32:48 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/put-01be8dcd-2a33-405c-8962-c6e912870cac.prof
+Thu Aug  8 15:33:38 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/get-6e1962b9-acce-405b-9b2e-72961c69e087.prof
+Thu Aug  8 15:33:09 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/exec_command_wait_bytes-5cea2dca-f39c-4698-a1b2-d004bb0a6e09.prof
+Thu Aug  8 15:32:50 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/put-d970068c-7bde-4355-95c0-49700fc293fd.prof
+Thu Aug  8 15:33:38 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/get-bb46925f-4129-4a3d-bb8a-94c75a880810.prof
+Thu Aug  8 15:32:44 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/chdir-fcf2103d-5125-45fb-a30b-35dab9a47932.prof
+Thu Aug  8 15:33:11 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/submit_job-45e53481-0346-49ef-b4cf-81ff0f1bf369.prof
+Thu Aug  8 15:32:44 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/mkdir-ec024d2d-5189-4064-8e48-35ab41b91107.prof
+Thu Aug  8 15:33:24 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/close-427e4bcd-794f-4d96-968f-bdeb814b51ca.prof
+Thu Aug  8 15:32:44 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/chdir-caf983dd-64c9-4ef6-9ff9-a510ad847b60.prof
+Thu Aug  8 15:32:48 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/chdir-dcb48e3d-a9e2-4fb4-834c-1c1947cc3255.prof
+Thu Aug  8 15:33:09 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/chdir-de144a04-60a9-4245-b82e-2d44a8e28bc0.prof
+Thu Aug  8 15:32:46 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/getcwd-3f415ec9-044f-4bf1-90f9-585ad54619c4.prof
+Thu Aug  8 15:32:44 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/mkdir-15c67920-e3c3-4ed4-afd9-4cc5230c0bd8.prof
+Thu Aug  8 15:33:37 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/exec_command_wait_bytes-0b5d8f0b-401d-4f15-912e-0b2f7570119d.prof
+Thu Aug  8 15:32:48 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/chdir-f914403d-9613-428b-90a0-8482f6dc01fb.prof
+Thu Aug  8 15:33:38 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/chdir-2f37c18d-ac47-476d-a8bb-88bb2c21a5fb.prof
+Thu Aug  8 15:32:50 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/chdir-405f7fa9-cf0d-494b-8a79-407cf526ba12.prof
+Thu Aug  8 15:32:49 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/mkdir-f9f7ac56-1af7-48ed-a488-2cc420fa36da.prof
+Thu Aug  8 15:33:09 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/submit_job-d303068b-c964-4144-b09c-aade9975601a.prof
+Thu Aug  8 15:34:13 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/get-899762ad-4fea-4b62-9b17-a26cad558490.prof
+Thu Aug  8 15:32:44 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/chdir-7ecaafd5-5b2b-4222-a7df-7ad0e8a142a3.prof
+Thu Aug  8 15:34:13 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/exec_command_wait_bytes-d58eb5b0-1025-414f-813a-88ac963ecc56.prof
+Thu Aug  8 15:33:05 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/chdir-0096334b-11d8-4239-b766-22209ec863dd.prof
+Thu Aug  8 15:33:37 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/get_jobs-2bcd16c3-fa86-4d8a-b8af-e90b8bcc0f78.prof
+Thu Aug  8 15:34:14 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/exec_command_wait_bytes-388d6b49-8b45-462f-a0db-936bb5a30069.prof
+Thu Aug  8 15:32:46 2024    /home/khosra_a/development/repo/aiida_profiling/firecrest/ssh_4/mkdir-ec41a5c0-9743-4f02-87f8-332db4560df7.prof
+
+         375612 function calls (373022 primitive calls) in 44.282 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+     9500   17.439    0.002   17.439    0.002 {method 'acquire' of '_thread.lock' objects}
+     1572   15.884    0.010   15.884    0.010 {built-in method time.sleep}
+        7   10.098    1.443   10.098    1.443 {method 'enable' of '_lsprof.Profiler' objects}
+        6    0.099    0.016    0.099    0.016 {method 'connect' of '_socket.socket' objects}
+        6    0.052    0.009    0.053    0.009 {built-in method _socket.getaddrinfo}
+    49146    0.045    0.000    0.064    0.000 py3compat.py:135(byte_ord)
+      880    0.044    0.000    0.044    0.000 {method 'flush' of 'zlib.Compress' objects}
+      396    0.028    0.000    0.089    0.000 util.py:285(constant_time_bytes_eq)
+  892/458    0.022    0.000    0.209    0.000 packet.py:388(send_message)
+       15    0.022    0.001   16.643    1.110 ssh.py:1354(exec_command_wait_bytes)
+     3202    0.017    0.000    0.025    0.000 buffered_pipe.py:108(read_ready)
+    65492    0.016    0.000    0.017    0.000 {built-in method builtins.isinstance}
+      458    0.015    0.000    0.015    0.000 {method 'send' of '_socket.socket' objects}
+      892    0.013    0.000    0.027    0.000 ciphers.py:148(update_into)
+      792    0.010    0.000    9.858    0.012 buffered_pipe.py:126(read)
+      590    0.010    0.000    0.010    0.000 {built-in method __new__ of type object at 0xa7a840}
+     4007    0.010    0.000    0.026    0.000 py3compat.py:149(b)
+      516    0.010    0.000   17.445    0.034 threading.py:295(wait)
+27675/27663    0.009    0.000    0.009    0.000 {built-in method builtins.len}
+     1288    0.009    0.000    0.009    0.000 {built-in method _hashlib.hmac_new}
+      156    0.008    0.000    0.008    0.000 {built-in method _openssl.EC_KEY_new_by_curve_name}
+    47525    0.008    0.000    0.008    0.000 {built-in method builtins.ord}
+      345    0.008    0.000    6.285    0.018 sftp_client.py:849(_read_response)
+  880/452    0.007    0.000    0.218    0.000 transport.py:1896(_send_user_message)
+     2530    0.007    0.000    0.030    0.000 common.py:196(asbytes)
+      892    0.007    0.000    0.034    0.000 ciphers.py:143(update)
+  793/434    0.007    0.000    0.207    0.000 channel.py:1191(_send)
+     2554    0.007    0.000    0.016    0.000 {method 'format' of 'str' objects}
+      353    0.006    0.000    0.226    0.001 sftp_client.py:824(_async_request)
+     3564    0.006    0.000    0.122    0.000 hostkeys.py:198(_hostname_matches)
+      734    0.006    0.000    9.740    0.013 sftp.py:170(_read_all)
+     3676    0.006    0.000    0.008    0.000 message.py:101(get_bytes)
+  892/458    0.006    0.000    0.120    0.000 packet.py:330(write_all)
+      396    0.006    0.000    0.024    0.000 hostkeys.py:291(hash_host)
+      892    0.006    0.000    0.007    0.000 packet.py:625(_build_packet)
+     2684    0.005    0.000    0.008    0.000 message.py:226(add_int)
+     1288    0.005    0.000    0.018    0.000 hmac.py:38(__init__)
+     1601    0.005    0.000    0.024    0.000 channel.py:673(recv_ready)
+     1031    0.005    0.000    7.613    0.007 threading.py:611(wait)
+     2455    0.005    0.000    0.012    0.000 message.py:144(get_int)
+      880    0.005    0.000    0.005    0.000 {method 'compress' of 'zlib.Compress' objects}
+     1288    0.005    0.000    0.005    0.000 {method 'digest' of '_hashlib.HMAC' objects}
+      357    0.005    0.000    0.010    0.000 sftp_client.py:172(_log)
+     1245    0.005    0.000    0.005    0.000 {built-in method builtins.repr}
+     5228    0.005    0.000    0.005    0.000 {built-in method _struct.pack}
+      367    0.005    0.000    9.748    0.027 sftp.py:200(_read_packet)
+     1279    0.005    0.000    0.013    0.000 message.py:267(add_string)
+      779    0.005    0.000    0.005    0.000 channel.py:1276(_check_add_window)
+     1601    0.005    0.000    0.011    0.000 channel.py:714(recv_stderr_ready)
+      892    0.004    0.000    0.026    0.000 packet.py:46(compute_hmac)
+  793/434    0.004    0.000    0.212    0.000 channel.py:783(send)
+      880    0.004    0.000    0.053    0.000 compress.py:31(__call__)
+     1245    0.004    0.000    0.010    0.000 message.py:62(__repr__)
+       94    0.004    0.000    0.004    0.000 {built-in method io.open}
+     1587    0.004    0.000    0.005    0.000 channel.py:364(exit_status_ready)
+     2800    0.004    0.000    0.005    0.000 backend.py:168(openssl_assert)
+     1784    0.004    0.000    0.004    0.000 {method 'from_buffer' of '_cffi_backend.FFI' objects}
+      777    0.004    0.000    9.867    0.013 channel.py:685(recv)
+      892    0.004    0.000    0.004    0.000 {built-in method _openssl.EVP_CipherUpdate}
+     1288    0.004    0.000    0.012    0.000 hmac.py:66(_init_hmac)
+      792    0.004    0.000    0.006    0.000 base64.py:549(encodebytes)
+      748    0.003    0.000    0.004    0.000 buffered_pipe.py:66(_buffer_tobytes)
+     4103    0.003    0.000    0.003    0.000 {built-in method _struct.unpack}
+      156    0.003    0.000    0.028    0.000 backend.py:1105(load_elliptic_curve_public_bytes)
+      210    0.003    0.000    0.140    0.001 hostkeys.py:131(lookup)
+     1662    0.003    0.000    0.004    0.000 py3compat.py:158(u)
+      198    0.003    0.000    0.054    0.000 hostkeys.py:331(from_line)
+     7892    0.003    0.000    0.003    0.000 {method 'release' of '_thread.lock' objects}
+     1446    0.003    0.000    0.003    0.000 base64.py:533(_input_type_check)
+      793    0.003    0.000    0.003    0.000 channel.py:1296(_wait_for_send_window)
+     1288    0.003    0.000    0.009    0.000 hmac.py:151(digest)
+     4912    0.003    0.000    0.003    0.000 {method 'write' of '_io.BytesIO' objects}
+      359    0.003    0.000    0.208    0.001 sftp.py:193(_send_packet)
+     1876    0.003    0.000    0.003    0.000 message.py:43(__init__)
+      380    0.003    0.000    0.006    0.000 weakref.py:164(__setitem__)
+     7644    0.002    0.000    0.002    0.000 {method 'startswith' of 'str' objects}
+      976    0.002    0.000    0.002    0.000 {method 'new' of '_cffi_backend.FFI' objects}
+      337    0.002    0.000    6.349    0.019 sftp_client.py:820(_request)
+      168    0.002    0.000    0.045    0.000 ecdsakey.py:109(__init__)
+  892/458    0.002    0.000    0.211    0.000 transport.py:1893(_send_message)
+      178    0.002    0.000    3.239    0.018 sftp_client.py:472(stat)
+        6    0.002    0.000    0.079    0.013 hostkeys.py:80(load)
+      156    0.002    0.000    0.031    0.000 ec.py:168(from_encoded_point)
+      892    0.002    0.000    0.036    0.000 base.py:173(update)
+      230    0.002    0.000    0.002    0.000 threading.py:243(__init__)
+      210    0.002    0.000    0.002    0.000 {built-in method _abc._abc_init}
+      289    0.002    0.000    0.004    0.000 sftp_client.py:909(_adjust_cwd)
+     1830    0.002    0.000    0.002    0.000 {method 'decode' of 'bytes' objects}
+     1076    0.002    0.000    0.002    0.000 threading.py:274(__exit__)
+      516    0.002    0.000    0.003    0.000 threading.py:283(_acquire_restore)
+      380    0.002    0.000    0.002    0.000 weakref.py:347(__new__)
+      756    0.002    0.000    0.010    0.000 message.py:174(get_text)
+      107    0.002    0.000    0.002    0.000 {built-in method posix.stat}
+      357    0.002    0.000    0.004    0.000 sftp.py:157(_log)
+     2635    0.002    0.000    0.002    0.000 threading.py:575(is_set)
+     1076    0.002    0.000    0.002    0.000 threading.py:271(__enter__)
+   188/86    0.002    0.000   15.372    0.179 inject_tool.py:14(wrapper)
+       27    0.002    0.000    1.305    0.048 transport.py:969(open_channel)
+      132    0.001    0.000    0.003    0.000 pkey.py:499(_uint32_cstruct_unpack)
+      359    0.001    0.000    0.195    0.001 sftp.py:160(_write_all)
+      135    0.001    0.000    0.006    0.000 sftp_attr.py:98(_unpack)
+      435    0.001    0.000    0.003    0.000 __init__.py:1544(log)
+      380    0.001    0.000    0.001    0.000 weakref.py:352(__init__)
+      276    0.001    0.000    0.003    0.000 __init__.py:1327(getLogger)
+       95    0.001    0.000    0.001    0.000 {method '__exit__' of '_io._IOBase' objects}
+      654    0.001    0.000    0.004    0.000 base64.py:560(decodebytes)
+       12    0.001    0.000    6.245    0.520 client.py:218(connect)
+      360    0.001    0.000    0.002    0.000 backend.py:1213(_tmp_bn_ctx)
+      764    0.001    0.000    0.007    0.000 message.py:166(get_string)
+      210    0.001    0.000    0.001    0.000 hostkeys.py:142(SubDict)
+       20    0.001    0.000    0.001    0.000 {built-in method _thread.start_new_thread}
+     1257    0.001    0.000    0.002    0.000 message.py:68(asbytes)
+     2284    0.001    0.000    0.001    0.000 {built-in method time.time}
+     3676    0.001    0.000    0.001    0.000 {method 'read' of '_io.BytesIO' objects}
+      361    0.001    0.000    0.001    0.000 weakref.py:152(__contains__)
+       64    0.001    0.000    0.643    0.010 file.py:172(read)
+        6    0.001    0.000   11.284    1.881 ssh.py:415(open)
+      465    0.001    0.000    0.001    0.000 __init__.py:1734(isEnabledFor)
+        6    0.001    0.000    0.002    0.000 ssh.py:530(_close_proxies)
+       72    0.001    0.000    0.001    0.000 util.py:37(inflate_long)
+      156    0.001    0.000    0.003    0.000 ec.py:35(_ec_key_curve_sn)
+     1022    0.001    0.000    0.001    0.000 {built-in method builtins.min}
+      276    0.001    0.000    0.004    0.000 __init__.py:2074(getLogger)
+      892    0.001    0.000    0.002    0.000 message.py:205(add_byte)
+       12    0.001    0.000    0.004    0.000 transport.py:323(__init__)
+       48    0.001    0.000    0.006    0.000 pkey.py:325(_read_private_key)
+     1756    0.001    0.000    0.001    0.000 {method 'encode' of 'str' objects}
+     2590    0.001    0.000    0.001    0.000 {method 'getvalue' of '_io.BytesIO' objects}
+       28    0.001    0.000    0.517    0.018 sftp_client.py:326(open)
+      212    0.001    0.000    0.015    0.000 {built-in method builtins.__build_class__}
+     1171    0.001    0.000    0.001    0.000 {method 'acquire' of '_thread.RLock' objects}
+     2800    0.001    0.000    0.001    0.000 binding.py:20(_openssl_assert)
+      156    0.001    0.000    0.001    0.000 {built-in method _openssl.EC_POINT_oct2point}
+     1288    0.001    0.000    0.001    0.000 hmac.py:139(_current)
+      361    0.001    0.000    0.001    0.000 weakref.py:142(__delitem__)
+      210    0.001    0.000    0.012    0.000 <frozen abc>:105(__new__)
+       32    0.001    0.000    1.584    0.050 ssh.py:1288(isfile)
+       68    0.001    0.000    1.227    0.018 sftp_client.py:618(normalize)
+       12    0.001    0.000    4.745    0.395 auth_handler.py:235(wait_for_response)
+      654    0.001    0.000    0.001    0.000 {built-in method binascii.a2b_base64}
+       48    0.001    0.000    0.001    0.000 {method 'readlines' of '_io._IOBase' objects}
+      806    0.001    0.000    0.001    0.000 {built-in method _thread.allocate_lock}
+       12    0.001    0.000    0.001    0.000 {built-in method _sodium.crypto_sign_seed_keypair}
+      156    0.001    0.000    0.006    0.000 ec.py:220(__init__)
+      106    0.001    0.000    0.003    0.000 sftp_client.py:891(_convert_status)
+      359    0.001    0.000    0.001    0.000 py3compat.py:141(byte_chr)
+      576    0.001    0.000    0.001    0.000 threading.py:286(_is_owned)
+      276    0.001    0.000    0.005    0.000 util.py:269(get_logger)
+      135    0.001    0.000    0.007    0.000 sftp_attr.py:88(_from_msg)
+      198    0.001    0.000    0.004    0.000 pkey.py:590(_check_type_and_load_cert)
+      180    0.001    0.000    0.001    0.000 contextlib.py:104(__init__)
+      830    0.001    0.000    0.001    0.000 {method 'split' of 'str' objects}
+      178    0.001    0.000    0.001    0.000 sftp_attr.py:50(__init__)
+       15    0.001    0.000    0.553    0.037 ssh.py:1309(_exec_command_internal)
+      156    0.001    0.000    0.001    0.000 backend.py:1196(_elliptic_curve_to_nid)
+       36    0.001    0.000    0.003    0.000 pkey.py:413(_read_private_key_openssh)
+     1076    0.001    0.000    0.001    0.000 {method '__enter__' of '_thread.lock' objects}
+       27    0.001    0.000    0.003    0.000 channel.py:94(__init__)
+       20    0.001    0.000    0.002    0.000 threading.py:856(__init__)
+       12    0.001    0.000    0.001    0.000 sftp_attr.py:172(_as_text)
+       48    0.001    0.000    0.001    0.000 backend.py:348(_bn_to_int)
+       33    0.001    0.000    0.001    0.000 {method 'read' of '_io.BufferedReader' objects}
+      120    0.001    0.000    2.172    0.018 ssh.py:629(stat)
+      156    0.001    0.000    0.001    0.000 ec.py:77(_check_key_infinity)
+      156    0.001    0.000    0.009    0.000 backend.py:1173(_ec_key_new_by_curve_nid)
+       24    0.001    0.000    0.003    0.000 ec.py:247(public_numbers)
+      783    0.001    0.000    0.001    0.000 {method 'replace' of 'str' objects}
+       12    0.001    0.000    0.004    0.000 ed25519key.py:71(_parse_signing_key_data)
+      516    0.001    0.000    0.001    0.000 threading.py:280(_release_save)
+       54    0.001    0.000    0.007    0.000 ed25519key.py:42(__init__)
+     1171    0.001    0.000    0.001    0.000 {method 'release' of '_thread.RLock' objects}
+      748    0.001    0.000    0.001    0.000 {method 'tobytes' of 'array.array' objects}
+       24    0.001    0.000    1.318    0.055 ssh.py:589(chdir)
+       73    0.001    0.000    0.001    0.000 file.py:50(__init__)
+      137    0.001    0.000    0.002    0.000 threading.py:562(__init__)
+     1674    0.001    0.000    0.001    0.000 {method 'append' of 'list' objects}
+      354    0.001    0.000    0.001    0.000 ecdsakey.py:76(get_key_format_identifier_list)
+       16    0.001    0.000    1.152    0.072 sftp_client.py:729(put)
+      372    0.001    0.000    0.003    0.000 {built-in method builtins.next}
+       30    0.001    0.000    1.102    0.037 sftp_client.py:640(chdir)
+     1086    0.001    0.000    0.001    0.000 {method '__exit__' of '_thread.lock' objects}
+      396    0.000    0.000    0.000    0.000 {built-in method _hashlib.openssl_sha1}
+      120    0.000    0.000    0.013    0.000 file.py:518(_write_all)
+      792    0.000    0.000    0.000    0.000 {built-in method binascii.b2a_base64}
+       12    0.000    0.000    4.771    0.398 client.py:617(_auth)
+       73    0.000    0.000    0.000    0.000 file.py:478(_set_mode)
+      180    0.000    0.000    0.001    0.000 contextlib.py:141(__exit__)
+      310    0.000    0.000    0.002    0.000 message.py:180(get_binary)
+      342    0.000    0.000    0.000    0.000 {method 'match' of 're.Pattern' objects}
+       56    0.000    0.000    0.763    0.014 sftp_file.py:84(_close)
+       48    0.000    0.000    0.020    0.000 client.py:585(_key_from_filepath)
+       28    0.000    0.000    0.523    0.019 sftp_client.py:675(_transfer_with_callback)
+      648    0.000    0.000    0.000    0.000 {method 'gc' of '_cffi_backend.FFI' objects}
+      279    0.000    0.000    0.001    0.000 __init__.py:228(_acquireLock)
+      156    0.000    0.000    0.001    0.000 backend.py:460(_create_evp_pkey_gc)
+       28    0.000    0.000    0.001    0.000 sftp_file.py:61(__init__)
+       64    0.000    0.000    0.001    0.000 <frozen posixpath>:60(isabs)
+      156    0.000    0.000    0.000    0.000 {built-in method _openssl.EVP_PKEY_set1_EC_KEY}
+      156    0.000    0.000    0.002    0.000 backend.py:1190(_ec_cdata_to_evp_pkey)
+       47    0.000    0.000    0.000    0.000 transport.py:213(logger)
+       54    0.000    0.000    0.001    0.000 buffered_pipe.py:46(__init__)
+       12    0.000    0.000    1.165    0.097 sftp_client.py:790(get)
+      492    0.000    0.000    0.000    0.000 {built-in method _openssl.EC_KEY_get0_group}
+      156    0.000    0.000    0.001    0.000 ecdsakey.py:149(<listcomp>)
+       32    0.000    0.000    0.596    0.019 ssh.py:772(isdir)
+       88    0.000    0.000    0.001    0.000 file.py:87(flush)
+       16    0.000    0.000    1.150    0.072 sftp_client.py:687(putfo)
+        4    0.000    0.000    1.305    0.326 ssh.py:907(puttree)
+      354    0.000    0.000    0.000    0.000 ecdsakey.py:77(<listcomp>)
+      6/1    0.000    0.000    0.001    0.001 _parser.py:516(_parse)
+      361    0.000    0.000    0.000    0.000 weakref.py:133(__getitem__)
+      156    0.000    0.000    0.000    0.000 {built-in method _openssl.OBJ_sn2nid}
+       54    0.000    0.000    0.001    0.000 transport.py:3106(get)
+      156    0.000    0.000    0.011    0.000 backend.py:1169(_ec_key_new_by_curve)
+      180    0.000    0.000    0.001    0.000 contextlib.py:299(helper)
+      120    0.000    0.000    0.001    0.000 <frozen codecs>:319(decode)
+       56    0.000    0.000    0.001    0.000 weakref.py:243(values)
+      277    0.000    0.000    0.000    0.000 ssh.py:567(sftp)
+       43    0.000    0.000    0.000    0.000 sftp_attr.py:115(_pack)
+       20    0.000    0.000    0.007    0.000 threading.py:945(start)
+       12    0.000    0.000    0.000    0.000 packet.py:81(__init__)
+      279    0.000    0.000    0.000    0.000 __init__.py:237(_releaseLock)
+       12    0.000    0.000    1.163    0.097 sftp_client.py:761(getfo)
+       24    0.000    0.000    0.000    0.000 {built-in method _openssl.EC_POINT_get_affine_coordinates}
+      198    0.000    0.000    0.022    0.000 hostkeys.py:214(check)
+       36    0.000    0.000    0.008    0.000 pkey.py:300(_read_private_key_file)
+       48    0.000    0.000    0.017    0.000 pkey.py:228(from_private_key_file)
+      180    0.000    0.000    0.002    0.000 contextlib.py:132(__enter__)
+       12    0.000    0.000    2.264    0.189 ssh.py:972(get)
+       54    0.000    0.000    0.001    0.000 channel.py:1211(_log)
+      135    0.000    0.000    0.001    0.000 message.py:150(get_int64)
+       54    0.000    0.000    0.000    0.000 weakref.py:194(get)
+      822    0.000    0.000    0.000    0.000 {method 'join' of 'bytes' objects}
+       12    0.000    0.000    1.195    0.100 transport.py:648(start_client)
+       15    0.000    0.000    0.281    0.019 channel.py:232(exec_command)
+      532    0.000    0.000    0.000    0.000 {method 'append' of 'collections.deque' objects}
+       27    0.000    0.000    0.001    0.000 channel.py:1240(_send_eof)
+       18    0.000    0.000    0.001    0.000 weakref.py:104(__init__)
+        6    0.000    0.000    0.000    0.000 utils.py:20(sodium_memcmp)
+      156    0.000    0.000    0.000    0.000 {built-in method _openssl.EC_KEY_set_public_key}
+      198    0.000    0.000    0.001    0.000 ecdsakey.py:170(supported_key_format_identifiers)
+      156    0.000    0.000    0.000    0.000 ec.py:88(_sn_to_elliptic_curve)
+      156    0.000    0.000    0.000    0.000 {built-in method _openssl.EVP_PKEY_new}
+       12    0.000    0.000    2.314    0.193 ssh.py:818(put)
+      357    0.000    0.000    0.000    0.000 channel.py:534(get_name)
+        6    0.000    0.000    3.485    0.581 sftp_client.py:100(__init__)
+       16    0.000    0.000    1.730    0.108 ssh.py:883(putfile)
+      261    0.000    0.000    0.000    0.000 {built-in method builtins.getattr}
+       12    0.000    0.000    0.001    0.000 crypto_sign.py:50(crypto_sign_seed_keypair)
+       24    0.000    0.000    0.000    0.000 sftp_file.py:132(_data_in_prefetch_buffers)
+      276    0.000    0.000    0.000    0.000 __init__.py:801(addFilter)
+       54    0.000    0.000    0.000    0.000 signing.py:68(__init__)
+      198    0.000    0.000    0.000    0.000 message.py:74(rewind)
+       45    0.000    0.000    0.001    0.000 channel.py:1349(__init__)
+       28    0.000    0.000    0.508    0.018 sftp_file.py:179(_read)
+       15    0.000    0.000    0.279    0.019 sftp_client.py:447(mkdir)
+       16    0.000    0.000    0.013    0.001 sftp_file.py:192(_write)
+       12    0.000    0.000    0.000    0.000 transport.py:3036(_set)
+       12    0.000    0.000    0.001    0.000 ecdsakey.py:284(_decode_key)
+      180    0.000    0.000    0.000    0.000 {built-in method _openssl.BN_CTX_new}
+       20    0.000    0.000    0.000    0.000 <frozen posixpath>:71(join)
+       18    0.000    0.000    0.000    0.000 weakref.py:289(update)
+       21    0.000    0.000    0.394    0.019 channel.py:63(_check)
+      156    0.000    0.000    0.000    0.000 ec.py:65(_mark_asn1_named_ec_curve)
+       28    0.000    0.000    0.001    0.000 <frozen genericpath>:39(isdir)
+       12    0.000    0.000    4.750    0.396 transport.py:1588(auth_publickey)
+      180    0.000    0.000    0.000    0.000 {built-in method _abc._abc_instancecheck}
+       90    0.000    0.000    0.000    0.000 <frozen posixpath>:41(_get_sep)
+       20    0.000    0.000    0.000    0.000 _weakrefset.py:85(add)
+       12    0.000    0.000    1.165    0.097 ssh.py:1035(getfile)
+       12    0.000    0.000    0.003    0.000 ecdsakey.py:197(_fields)
+       12    0.000    0.000    0.001    0.000 pkey.py:710(from_string)
+      6/1    0.000    0.000    0.001    0.001 _parser.py:456(_parse_sub)
+      198    0.000    0.000    0.000    0.000 hostkeys.py:326(__init__)
+       30    0.000    0.000    0.001    0.000 channel.py:871(makefile)
+       32    0.000    0.000    0.013    0.000 file.py:388(write)
+      120    0.000    0.000    0.000    0.000 {built-in method _codecs.utf_8_decode}
+      156    0.000    0.000    0.000    0.000 {built-in method _openssl.EC_KEY_set_asn1_flag}
+       66    0.000    0.000    0.000    0.000 <frozen codecs>:309(__init__)
+       28    0.000    0.000    0.000    0.000 _weakrefset.py:21(__enter__)
+      180    0.000    0.000    0.000    0.000 <frozen abc>:117(__instancecheck__)
+      180    0.000    0.000    0.000    0.000 {built-in method _openssl.BN_CTX_start}
+       12    0.000    0.000    0.001    0.000 signing.py:169(__init__)
+       16    0.000    0.000    0.152    0.010 sftp_file.py:149(_read_prefetch)
+     10/1    0.000    0.000    0.000    0.000 _compiler.py:37(_compile)
+      156    0.000    0.000    0.000    0.000 ecdsakey.py:84(get_by_key_format_identifier)
+       21    0.000    0.000    0.722    0.034 transport.py:892(open_session)
+        8    0.000    0.000    0.000    0.000 <frozen os>:345(_walk)
+       32    0.000    0.000    0.581    0.018 ssh.py:624(normalize)
+      156    0.000    0.000    0.000    0.000 {built-in method _openssl.EC_POINT_new}
+       44    0.000    0.000    0.001    0.000 <frozen genericpath>:27(isfile)
+       27    0.000    0.000    0.001    0.000 channel.py:1005(_set_window)
+      156    0.000    0.000    0.000    0.000 {built-in method _openssl.EC_POINT_is_at_infinity}
+       24    0.000    0.000    0.000    0.000 transport.py:1869(_log)
+       16    0.000    0.000    0.425    0.027 ssh.py:702(mkdir)
+       58    0.000    0.000    0.001    0.000 sftp_client.py:664(getcwd)
+        6    0.000    0.000    0.000    0.000 <frozen posixpath>:229(expanduser)
+       12    0.000    0.000    0.002    0.000 pkey.py:637(load_certificate)
+      180    0.000    0.000    0.000    0.000 {built-in method _openssl.EC_KEY_get0_public_key}
+      156    0.000    0.000    0.000    0.000 utils.py:29(_check_bytes)
+      156    0.000    0.000    0.000    0.000 {method 'string' of '_cffi_backend.FFI' objects}
+       28    0.000    0.000    0.000    0.000 weakref.py:121(_commit_removals)
+      210    0.000    0.000    0.000    0.000 {built-in method builtins.hasattr}
+       12    0.000    0.000    0.000    0.000 {built-in method time.localtime}
+       73    0.000    0.000    0.001    0.000 file.py:80(close)
+        6    0.000    0.000    0.113    0.019 channel.py:259(invoke_subsystem)
+       27    0.000    0.000    0.001    0.000 transport.py:1880(_next_channel)
+       28    0.000    0.000    0.000    0.000 _weakrefset.py:27(__exit__)
+       12    0.000    0.000    0.000    0.000 {method 'read' of '_io.TextIOWrapper' objects}
+      180    0.000    0.000    0.000    0.000 {built-in method _openssl.BN_CTX_end}
+       54    0.000    0.000    0.000    0.000 util.py:303(clamp_value)
+       18    0.000    0.000    0.008    0.000 channel.py:647(close)
+       26    0.000    0.000    0.000    0.000 threading.py:1453(current_thread)
+       21    0.000    0.000    0.382    0.018 channel.py:1218(_wait_for_event)
+      156    0.000    0.000    0.000    0.000 {built-in method _openssl.EC_GROUP_get_curve_name}
+       15    0.000    0.000    0.008    0.001 channel.py:946(shutdown)
+      156    0.000    0.000    0.000    0.000 {built-in method _openssl.OBJ_nid2sn}
+       12    0.000    0.000    0.004    0.000 pkey.py:142(__eq__)
+       30    0.000    0.000    0.000    0.000 escaping.py:14(escape_for_bash)
+      241    0.000    0.000    0.000    0.000 {method 'endswith' of 'str' objects}
+        6    0.000    0.000    4.051    0.675 sftp_client.py:140(from_transport)
+       12    0.000    0.000    0.000    0.000 {built-in method time.strftime}
+       48    0.000    0.000    0.000    0.000 pkey.py:47(_unpad_openssh)
+        6    0.000    0.000    0.053    0.009 socket.py:945(getaddrinfo)
+        6    0.000    0.000    0.010    0.002 ssh.py:542(close)
+       24    0.000    0.000    0.000    0.000 transport.py:759(has_magic)
+       12    0.000    0.000    0.001    0.000 pkey.py:701(from_file)
+        4    0.000    0.000    0.000    0.000 <frozen posixpath>:486(relpath)
+       27    0.000    0.000    0.001    0.000 transport.py:3099(put)
+       12    0.000    0.000    0.000    0.000 pkey.py:366(_read_private_key_pem)
+       34    0.000    0.000    0.000    0.000 ssh.py:656(getcwd)
+      156    0.000    0.000    0.000    0.000 {built-in method _openssl.EC_GROUP_get_asn1_flag}
+       12    0.000    0.000    0.000    0.000 auth_handler.py:81(__init__)
+       12    0.000    0.000    0.004    0.000 sftp_file.py:438(prefetch)
+       28    0.000    0.000    0.763    0.027 sftp_file.py:78(close)
+       12    0.000    0.000    0.000    0.000 transport.py:3042(<listcomp>)
+       43    0.000    0.000    0.134    0.003 channel.py:1360(_read)
+       12    0.000    0.000    0.005    0.000 rsakey.py:193(_from_private_key_file)
+       60    0.000    0.000    0.000    0.000 threading.py:396(notify_all)
+        8    0.000    0.000    0.003    0.000 sftp_file.py:525(_start_prefetch)
+       65    0.000    0.000    0.000    0.000 {method 'remove' of 'collections.deque' objects}
+       24    0.000    0.000    0.118    0.005 <frozen _collections_abc>:771(get)
+       20    0.000    0.000    0.000    0.000 threading.py:811(_newname)
+       27    0.000    0.000    0.000    0.000 transport.py:2022(_sanitize_window_size)
+       12    0.000    0.000    0.001    0.000 ed25519key.py:167(asbytes)
+       15    0.000    0.000    0.000    0.000 channel.py:551(set_combine_stderr)
+        6    0.000    0.000    3.484    0.581 sftp.py:132(_send_version)
+       12    0.000    0.000    0.004    0.000 transport.py:854(close)
+       91    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+       28    0.000    0.000    0.763    0.027 util.py:299(__exit__)
+        4    0.000    0.000    0.000    0.000 {built-in method posix.scandir}
+       74    0.000    0.000    0.000    0.000 {built-in method builtins.max}
+       60    0.000    0.000    0.000    0.000 threading.py:366(notify)
+        6    0.000    0.000    0.079    0.013 client.py:81(load_system_host_keys)
+       27    0.000    0.000    0.000    0.000 channel.py:1001(_set_transport)
+       12    0.000    0.000    0.001    0.000 pkey.py:178(get_fingerprint)
+        8    0.000    0.000    0.000    0.000 sftp_file.py:543(_async_response)
+        6    0.000    0.000    0.000    0.000 socket.py:220(__init__)
+       21    0.000    0.000    0.000    0.000 threading.py:601(clear)
+       26    0.000    0.000    0.000    0.000 enum.py:688(__call__)
+       24    0.000    0.000    0.000    0.000 encoding.py:104(encode)
+       12    0.000    0.000    0.004    0.000 auth_handler.py:121(auth_publickey)
+      198    0.000    0.000    0.000    0.000 {method 'seek' of '_io.BytesIO' objects}
+        6    0.000    0.000    0.001    0.000 signing.py:90(__eq__)
+      210    0.000    0.000    0.000    0.000 {method 'strip' of 'str' objects}
+       12    0.000    0.000    0.000    0.000 transport.py:3094(__init__)
+       20    0.000    0.000    0.000    0.000 threading.py:1324(_make_invoke_excepthook)
+        6    0.000    0.000    0.002    0.000 __init__.py:272(_compile)
+       12    0.000    0.000    0.004    0.000 auth_handler.py:186(_request_auth)
+       16    0.000    0.000    0.001    0.000 sftp_client.py:886(_finish_responses)
+        3    0.000    0.000    0.000    0.000 slurm.py:180(_get_joblist_command)
+       12    0.000    0.000    0.001    0.000 channel.py:1228(_set_closed)
+       24    0.000    0.000    0.000    0.000 buffered_pipe.py:198(close)
+        1    0.000    0.000    0.000    0.000 _compiler.py:573(_code)
+       68    0.000    0.000    0.000    0.000 {built-in method binascii.hexlify}
+       12    0.000    0.000    0.003    0.000 dsskey.py:224(_from_private_key_file)
+       12    0.000    0.000    0.002    0.000 ecdsakey.py:276(_from_private_key_file)
+       65    0.000    0.000    0.000    0.000 {method 'join' of 'str' objects}
+       36    0.000    0.000    0.000    0.000 sftp_attr.py:161(_rwx)
+       24    0.000    0.000    0.000    0.000 threading.py:590(set)
+       24    0.000    0.000    0.000    0.000 ec.py:359(__init__)
+       12    0.000    0.000    0.000    0.000 {built-in method _hashlib.openssl_md5}
+       12    0.000    0.000    0.001    0.000 channel.py:1251(_close_internal)
+       12    0.000    0.000    0.003    0.000 dsskey.py:46(__init__)
+        6    0.000    0.000    0.000    0.000 idna.py:145(encode)
+       28    0.000    0.000    0.000    0.000 sftp_file.py:75(__del__)
+       45    0.000    0.000    0.000    0.000 file.py:65(__del__)
+       18    0.000    0.000    0.053    0.003 client.py:194(_families_and_addresses)
+        1    0.000    0.000    0.000    0.000 {built-in method marshal.loads}
+       12    0.000    0.000    0.003    0.000 transport.py:1844(stop_thread)
+        6    0.000    0.000    0.000    0.000 client.py:69(__init__)
+       63    0.000    0.000    0.000    0.000 _parser.py:168(__getitem__)
+       27    0.000    0.000    0.000    0.000 transport.py:2027(_sanitize_packet_size)
+       24    0.000    0.000    0.000    0.000 exceptions.py:70(ensure)
+      172    0.000    0.000    0.000    0.000 {method 'get' of 'dict' objects}
+       24    0.000    0.000    0.000    0.000 {method 'search' of 're.Pattern' objects}
+     13/4    0.000    0.000    0.000    0.000 _parser.py:178(getwidth)
+        6    0.000    0.000    0.000    0.000 ssh.py:448(<listcomp>)
+       12    0.000    0.000    0.000    0.000 socket.py:495(_real_close)
+       36    0.000    0.000    0.000    0.000 message.py:248(add_int64)
+       26    0.000    0.000    0.000    0.000 __init__.py:1467(debug)
+       12    0.000    0.000    0.000    0.000 transport.py:3123(values)
+       12    0.000    0.000    0.000    0.000 hostkeys.py:163(__getitem__)
+       15    0.000    0.000    0.000    0.000 channel.py:729(recv_stderr)
+       15    0.000    0.000    0.000    0.000 channel.py:379(recv_exit_status)
+       12    0.000    0.000    0.000    0.000 <frozen os>:674(__getitem__)
+       21    0.000    0.000    0.000    0.000 channel.py:1214(_event_pending)
+       24    0.000    0.000    0.000    0.000 client.py:784(_log)
+       12    0.000    0.000    0.006    0.000 rsakey.py:49(__init__)
+       64    0.000    0.000    0.000    0.000 _parser.py:240(__next)
+       12    0.000    0.000    0.000    0.000 hostkeys.py:184(<listcomp>)
+        4    0.000    0.000    0.000    0.000 <frozen genericpath>:69(commonprefix)
+       20    0.000    0.000    0.000    0.000 threading.py:1221(daemon)
+       12    0.000    0.000    0.000    0.000 threading.py:1192(is_alive)
+       24    0.000    0.000    0.000    0.000 socket.py:99(_intenum_converter)
+       12    0.000    0.000    0.000    0.000 hostkeys.py:143(__init__)
+       15    0.000    0.000    0.008    0.001 channel.py:981(shutdown_write)
+        1    0.000    0.000    0.001    0.001 <frozen importlib._bootstrap>:1165(_find_and_load)
+       15    0.000    0.000    0.000    0.000 channel.py:881(makefile_stderr)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1007(get_code)
+        4    0.000    0.000    0.000    0.000 <frozen os>:282(walk)
+       48    0.000    0.000    0.000    0.000 {built-in method _openssl.BN_bn2bin}
+        1    0.000    0.000    0.001    0.001 <frozen importlib._bootstrap>:1120(_find_and_load_unlocked)
+        6    0.000    0.000    4.051    0.675 transport.py:1132(open_sftp_client)
+       26    0.000    0.000    0.000    0.000 enum.py:1095(__new__)
+      121    0.000    0.000    0.000    0.000 {built-in method posix.fspath}
+       12    0.000    0.000    0.000    0.000 client.py:418(<listcomp>)
+        3    0.000    0.000    2.351    0.784 bash.py:40(get_jobs)
+        4    0.000    0.000    0.073    0.018 ssh.py:1523(path_exists)
+       12    0.000    0.000    0.001    0.000 rsakey.py:201(_decode_key)
+       66    0.000    0.000    0.000    0.000 <frozen codecs>:260(__init__)
+        6    0.000    0.000    0.099    0.016 client.py:358(<lambda>)
+       12    0.000    0.000    0.000    0.000 transport.py:605(get_security_options)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:1054(_find_spec)
+       54    0.000    0.000    0.000    0.000 transport.py:882(is_active)
+       28    0.000    0.000    0.000    0.000 _weakrefset.py:17(__init__)
+        1    0.000    0.000    0.000    0.000 {built-in method io.open_code}
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1607(find_spec)
+        6    0.000    0.000    0.000    0.000 sftp.py:125(__init__)
+        6    0.000    0.000    0.005    0.001 sftp_client.py:188(close)
+       26    0.000    0.000    0.000    0.000 threading.py:1206(daemon)
+       12    0.000    0.000    0.000    0.000 transport.py:3070(key_types)
+       12    0.000    0.000    0.000    0.000 {method 'digest' of '_hashlib.HASH' objects}
+       15    0.000    0.000    0.000    0.000 channel.py:1375(_read)
+       48    0.000    0.000    0.000    0.000 {method 'add' of 'set' objects}
+       12    0.000    0.000    0.001    0.000 dsskey.py:232(_decode_key)
+       48    0.000    0.000    0.000    0.000 {built-in method _openssl.BN_CTX_get}
+       59    0.000    0.000    0.000    0.000 {built-in method _stat.S_ISDIR}
+        1    0.000    0.000    0.001    0.001 _parser.py:979(parse)
+        6    0.000    0.000    0.000    0.000 threading.py:1051(_stop)
+       12    0.000    0.000    0.000    0.000 <frozen os>:756(encode)
+       12    0.000    0.000    0.000    0.000 {method 'settimeout' of '_socket.socket' objects}
+       12    0.000    0.000    0.000    0.000 threading.py:1125(_wait_for_tstate_lock)
+       51    0.000    0.000    0.000    0.000 {built-in method from_bytes}
+       24    0.000    0.000    0.000    0.000 __init__.py:1809(__init__)
+        6    0.000    0.000    4.051    0.675 client.py:567(open_sftp)
+       12    0.000    0.000    0.004    0.000 client.py:464(close)
+        1    0.000    0.000    0.000    0.000 _compiler.py:511(_compile_info)
+        6    0.000    0.000    0.000    0.000 {built-in method _sodium.sodium_memcmp}
+       12    0.000    0.000    0.000    0.000 ed25519key.py:177(_fields)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1467(_get_spec)
+       12    0.000    0.000    0.000    0.000 hostkeys.py:183(keys)
+       48    0.000    0.000    0.000    0.000 {method 'group' of 're.Match' objects}
+        3    0.000    0.000    0.000    0.000 _compiler.py:243(_optimize_charset)
+       35    0.000    0.000    0.000    0.000 {method 'pop' of 'list' objects}
+       21    0.000    0.000    0.000    0.000 message.py:214(add_boolean)
+       12    0.000    0.000    0.118    0.010 hostkeys.py:245(__getitem__)
+        1    0.000    0.000    0.002    0.002 _compiler.py:740(compile)
+       12    0.000    0.000    0.000    0.000 threading.py:90(RLock)
+        1    0.000    0.000    0.000    0.000 util.py:1(<module>)
+       48    0.000    0.000    0.000    0.000 {built-in method _openssl.BN_is_negative}
+        6    0.000    0.000    0.002    0.000 __init__.py:225(compile)
+       48    0.000    0.000    0.000    0.000 {built-in method _openssl.BN_num_bytes}
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:934(exec_module)
+       12    0.000    0.000    0.003    0.000 packet.py:205(close)
+       12    0.000    0.000    0.000    0.000 hostkeys.py:53(__init__)
+        8    0.000    0.000    0.000    0.000 <frozen posixpath>:389(normpath)
+       12    0.000    0.000    0.000    0.000 socket.py:499(close)
+        6    0.000    0.000    0.000    0.000 client.py:172(set_missing_host_key_policy)
+       30    0.000    0.000    0.000    0.000 ecdsakey.py:205(get_name)
+       29    0.000    0.000    0.000    0.000 _parser.py:261(get)
+        8    0.000    0.000    0.000    0.000 <frozen posixpath>:397(abspath)
+        3    0.000    0.000    0.000    0.000 _parser.py:98(closegroup)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:437(cache_from_source)
+        3    0.000    0.000    0.000    0.000 __init__.py:1447(__init__)
+       24    0.000    0.000    0.000    0.000 sftp_file.py:139(<listcomp>)
+       36    0.000    0.000    0.000    0.000 _parser.py:256(match)
+       36    0.000    0.000    0.000    0.000 channel.py:588(settimeout)
+       20    0.000    0.000    0.000    0.000 {method 'write' of '_io.BufferedWriter' objects}
+       37    0.000    0.000    0.000    0.000 {method 'pop' of 'dict' objects}
+       12    0.000    0.000    0.000    0.000 <frozen os>:760(decode)
+        6    0.000    0.000    0.099    0.017 util.py:275(retry_on_signal)
+        2    0.000    0.000    0.000    0.000 enum.py:1525(__and__)
+       36    0.000    0.000    0.000    0.000 {method 'keys' of 'dict' objects}
+        3    0.000    0.000    0.000    0.000 __init__.py:1378(_fixupParents)
+        4    0.000    0.000    7.747    1.937 bash.py:29(submit_job)
+        6    0.000    0.000    0.000    0.000 transport.py:1799(get_hexdump)
+        3    0.000    0.000    0.000    0.000 _parser.py:274(getuntil)
+       48    0.000    0.000    0.000    0.000 {built-in method _operator.getitem}
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:179(_get_module_lock)
+       44    0.000    0.000    0.000    0.000 {built-in method _stat.S_ISREG}
+       15    0.000    0.000    0.000    0.000 ssh.py:561(sshclient)
+       33    0.000    0.000    0.000    0.000 transport.py:1777(get_log_channel)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:567(_get_cached)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1602(_get_spec)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:566(module_from_spec)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:493(_init_module_attrs)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:169(__enter__)
+        6    0.000    0.000    0.000    0.000 <frozen _collections_abc>:778(__contains__)
+       24    0.000    0.000    0.000    0.000 _parser.py:164(__len__)
+       12    0.000    0.000    0.000    0.000 transport.py:1810(use_compression)
+       12    0.000    0.000    0.000    0.000 pkey.py:689(__init__)
+       28    0.000    0.000    0.000    0.000 {built-in method _thread.get_ident}
+        1    0.000    0.000    0.001    0.001 <frozen importlib._bootstrap>:666(_load_unlocked)
+       36    0.000    0.000    0.000    0.000 signing.py:84(__bytes__)
+       19    0.000    0.000    0.000    0.000 _parser.py:293(tell)
+       45    0.000    0.000    0.000    0.000 slurm.py:194(<genexpr>)
+        3    0.000    0.000    0.000    0.000 _parser.py:86(opengroup)
+       24    0.000    0.000    0.000    0.000 ed25519key.py:191(can_sign)
+        6    0.000    0.000    0.000    0.000 {method 'groupdict' of 're.Match' objects}
+       66    0.000    0.000    0.000    0.000 encoding.py:48(decode)
+       21    0.000    0.000    0.000    0.000 client.py:575(get_transport)
+       42    0.000    0.000    0.000    0.000 ed25519key.py:185(get_name)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1127(get_data)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:778(spec_from_file_location)
+       28    0.000    0.000    0.000    0.000 {method 'remove' of 'set' objects}
+        6    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:126(_path_join)
+        4    0.000    0.000    0.000    0.000 __init__.py:1839(debug)
+       12    0.000    0.000    0.000    0.000 transport.py:865(get_remote_server_key)
+       28    0.000    0.000    0.000    0.000 {method 'values' of 'dict' objects}
+       12    0.000    0.000    0.000    0.000 {method 'copy' of 'dict' objects}
+       12    0.000    0.000    0.000    0.000 transport.py:3065(key_types)
+       12    0.000    0.000    0.000    0.000 {method 'memmove' of '_cffi_backend.FFI' objects}
+       37    0.000    0.000    0.000    0.000 {method 'items' of 'dict' objects}
+       20    0.000    0.000    0.000    0.000 {method '__exit__' of '_thread.RLock' objects}
+       12    0.000    0.000    0.000    0.000 {built-in method _weakref.proxy}
+       13    0.000    0.000    0.000    0.000 _parser.py:176(append)
+        6    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:128(<listcomp>)
+        6    0.000    0.000    0.000    0.000 enum.py:1507(_get_value)
+       13    0.000    0.000    0.000    0.000 {built-in method builtins.setattr}
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:100(acquire)
+       12    0.000    0.000    0.000    0.000 _parser.py:113(__init__)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:132(_path_split)
+       12    0.000    0.000    0.000    0.000 transport.py:3027(__init__)
+        8    0.000    0.000    0.000    0.000 {built-in method posix._path_normpath}
+       12    0.000    0.000    0.000    0.000 {function socket.close at 0x7fc23e81ed40}
+        3    0.000    0.000    0.000    0.000 transport.py:104(__enter__)
+        1    0.000    0.000    0.000    0.000 _parser.py:231(__init__)
+        3    0.000    0.000    0.000    0.000 _compiler.py:216(_compile_charset)
+       12    0.000    0.000    0.000    0.000 packet.py:133(set_log)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:727(_compile_bytecode)
+       16    0.000    0.000    0.000    0.000 sftp_file.py:418(set_pipelined)
+        8    0.000    0.000    0.000    0.000 {method 'rfind' of 'str' objects}
+        6    0.000    0.000    0.000    0.000 _compiler.py:398(_simple)
+       12    0.000    0.000    0.000    0.000 {built-in method _stat.S_IFMT}
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1499(find_spec)
+        3    0.000    0.000    2.351    0.784 transport.py:394(exec_command_wait)
+        2    0.000    0.000    0.000    0.000 _parser.py:453(_uniq)
+       12    0.000    0.000    0.000    0.000 auth_handler.py:102(is_authenticated)
+        4    0.000    0.000    0.000    0.000 <frozen posixpath>:508(<listcomp>)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:642(_classify_pyc)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:173(__exit__)
+       20    0.000    0.000    0.000    0.000 {method 'rstrip' of 'str' objects}
+       28    0.000    0.000    0.000    0.000 util.py:296(__enter__)
+       24    0.000    0.000    0.000    0.000 {built-in method builtins.issubclass}
+       10    0.000    0.000    0.000    0.000 scheduler.py:361(transport)
+       12    0.000    0.000    0.000    0.000 {built-in method builtins.abs}
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:392(cached)
+        4    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:134(<genexpr>)
+        4    0.000    0.000    0.000    0.000 __init__.py:1880(log)
+        3    0.000    0.000    0.000    0.000 _parser.py:304(checkgroupname)
+        6    0.000    0.000    0.000    0.000 inspect.py:292(isclass)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:71(__init__)
+        3    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:84(_unpack_uint32)
+        8    0.000    0.000    0.000    0.000 _parser.py:83(groups)
+       24    0.000    0.000    0.000    0.000 encoding.py:44(encode)
+        6    0.000    0.000    0.000    0.000 {method 'find' of 'str' objects}
+        6    0.000    0.000    0.000    0.000 {method 'split' of 'bytes' objects}
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:125(release)
+        7    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:244(_verbose_message)
+        4    0.000    0.000    0.000    0.000 <frozen genericpath>:16(exists)
+       12    0.000    0.000    0.000    0.000 transport.py:614(set_gss_host)
+        2    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:233(_call_with_frames_removed)
+        8    0.000    0.000    0.000    0.000 sftp_file.py:565(_check_exception)
+        3    0.000    0.000    0.000    0.000 __init__.py:1720(getEffectiveLevel)
+        7    0.000    0.000    0.000    0.000 {method 'find' of 'bytearray' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.exec}
+        3    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:140(_path_stat)
+       12    0.000    0.000    0.000    0.000 ec.py:381(x)
+        4    0.000    0.000    0.000    0.000 __init__.py:1889(isEnabledFor)
+       12    0.000    0.000    0.000    0.000 ec.py:385(y)
+        1    0.000    0.000    0.000    0.000 _compiler.py:436(_get_literal_prefix)
+       12    0.000    0.000    0.000    0.000 channel.py:1264(_unlink)
+        6    0.000    0.000    0.000    0.000 {method 'rpartition' of 'str' objects}
+        3    0.000    0.000    0.000    0.000 __init__.py:202(_checkLevel)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:159(_path_isfile)
+        6    0.000    0.000    0.000    0.000 channel.py:518(get_transport)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:357(__init__)
+        1    0.000    0.000    0.000    0.000 {built-in method _imp.is_builtin}
+        4    0.000    0.000    0.000    0.000 <frozen posixpath>:509(<listcomp>)
+        6    0.000    0.000    0.000    0.000 packet.py:212(get_hexdump)
+        6    0.000    0.000    0.000    0.000 _parser.py:172(__setitem__)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:920(find_spec)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:198(cb)
+        1    0.000    0.000    0.000    0.000 {built-in method _imp.find_frozen}
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:599(_check_name_wrapper)
+        2    0.000    0.000    0.000    0.000 {built-in method fromkeys}
+        1    0.000    0.000    0.000    0.000 {built-in method _sre.compile}
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:675(_validate_timestamp_pyc)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:150(_path_is_mode_type)
+        4    0.000    0.000    0.000    0.000 {built-in method sys.audit}
+        1    0.000    0.000    0.000    0.000 _parser.py:77(__init__)
+        4    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:1030(__exit__)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:748(find_spec)
+        1    0.000    0.000    0.000    0.000 __init__.py:89(find_spec)
+        6    0.000    0.000    0.000    0.000 {built-in method _imp.acquire_lock}
+        2    0.000    0.000    0.000    0.000 _parser.py:376(_escape)
+        8    0.000    0.000    0.000    0.000 {method 'is_dir' of 'posix.DirEntry' objects}
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:1207(_handle_fromlist)
+        4    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:1026(__enter__)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:48(_new_module)
+        3    0.000    0.000    0.000    0.000 {method 'isidentifier' of 'str' objects}
+        2    0.000    0.000    0.000    0.000 _compiler.py:570(isstring)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1146(path_stats)
+        1    0.000    0.000    0.000    0.000 _parser.py:963(fix_flags)
+        3    0.000    0.000    0.000    0.000 scheduler.py:110(logger)
+        1    0.000    0.000    0.000    0.000 _compiler.py:467(_get_charset_prefix)
+        4    0.000    0.000    0.000    0.000 {method '__exit__' of 'posix.ScandirIterator' objects}
+        3    0.000    0.000    0.000    0.000 __init__.py:795(__init__)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1424(_path_importer_cache)
+        3    0.000    0.000    0.000    0.000 transport.py:139(is_open)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:165(__init__)
+        6    0.000    0.000    0.000    0.000 {built-in method _imp.release_lock}
+        3    0.000    0.000    0.000    0.000 _compiler.py:31(_combine_flags)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:405(parent)
+        3    0.000    0.000    0.000    0.000 __init__.py:1319(disable)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1097(__init__)
+        1    0.000    0.000    0.000    0.000 util.py:34(_DetachedProxyCommand)
+        6    0.000    0.000    0.000    0.000 {method 'locked' of '_thread.lock' objects}
+        1    0.000    0.000    0.000    0.000 util.py:18(FileAttribute)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:180(_path_isabs)
+        1    0.000    0.000    0.000    0.000 {built-in method _imp._fix_co_filename}
+        2    0.000    0.000    0.000    0.000 _compiler.py:428(_get_iscased)
+        1    0.000    0.000    0.000    0.000 {method 'insert' of 'list' objects}
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:1122(get_filename)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:931(create_module)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap>:413(has_location)
+        1    0.000    0.000    0.000    0.000 <frozen importlib._bootstrap_external>:71(_relax_case)
+
+
