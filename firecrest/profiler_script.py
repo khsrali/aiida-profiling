@@ -165,9 +165,11 @@ def per_plugin(plugin_: str = ""):
     return numjobs, tot_time
 
 
+# here is the part we profile the ssh and firecrest plugins
 ssh_data = per_plugin(plugin_="ssh")
 fire_data = per_plugin(plugin_="fire")
 
+# now, wrrtting out the results
 with open(out_path + "SSH.csv", "w", newline="") as csvfile:
     writer = csv.writer(csvfile)
     writer.writerow(["numjobs", "tot_time"])
@@ -179,7 +181,7 @@ with open(out_path + "Fire.csv", "w", newline="") as csvfile:
     writer.writerows(list(zip(fire_data[0], fire_data[1])))
 
 
-from plotter import all_in_one
+from profiling.plotter import all_in_one
 
 fig, ax, plt = all_in_one(
     path_=out_path,

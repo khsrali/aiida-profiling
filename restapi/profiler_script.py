@@ -160,26 +160,42 @@ class Performance:
 
         return results
 
-    def write_performance_to_file(self, results_):
+    def write_performance_to_file(self, results_, path_):
         """
         Write the performance data to a file
         """
-        with open(f"results/restapi.txt", "w") as f:
+        with open(f"{path_}restapi.txt", "w") as f:
             for data_base in self.data_base_type:
                 f.write(f"### Performance for {data_base}\n")
                 f.write(results_[data_base].round(3).to_string())
                 f.write("\n\n\n")
 
         for data_base in self.data_base_type:
-            results_[data_base].round(3).to_csv(f"results/restapi_{data_base}.csv")
+            results_[data_base].round(3).to_csv(f"{path_}restapi_{data_base}.csv")
 
 
-"""
-Main function
-"""
+# """
+# Main function
+# """
 p = Performance(
     config_file="restapi/config.json", endpoints_file="restapi/endpoints.json"
 )
 
+out_path = "out/"
 results = p.compare_performance(print_results=True)
-p.write_performance_to_file(results)
+p.write_performance_to_file(results, out_path)
+
+
+### Plot the performance data
+from profiling.plotter import all_in_one
+
+fig, ax, plt = all_in_one(
+    path_=out_path,
+    xcolum="",
+    ycolum="ave_time_per_call(ms)",
+    xlabel="Endpoints",
+    ylabel="ave_time_per_call(ms)",
+    title="RESTapi performance with different backends",
+    save_name="RESTapi.png",
+    export_ticks=True,
+)

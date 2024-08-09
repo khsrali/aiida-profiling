@@ -11,7 +11,14 @@ import numpy as np
 
 
 def all_in_one(
-    path_, xcolum, ycolum, xlabel="X", ylabel="Y", title="All_in_one", save_name=None
+    path_,
+    xcolum,
+    ycolum,
+    xlabel="X",
+    ylabel="Y",
+    title="All_in_one",
+    save_name=None,
+    export_ticks=False,
 ):
 
     files = glob.glob(f"{path_}*.csv")
@@ -36,17 +43,17 @@ def all_in_one(
 
     ax.grid()
     ax.legend(title="Files", bbox_to_anchor=(1.05, 1), loc="upper left")
-    plt.xticks(
-        ticks=np.arange(len(df)) + width * (len(files) - 1) / 2, labels=df[f"{xcolum}"]
-    )
+    xticks = df[f"{xcolum}"] if xcolum in df.columns else df.index
+    plt.xticks(ticks=np.arange(len(df)) + width * (len(files) - 1) / 2, labels=xticks)
     plt.tight_layout()
 
     if save_name:
         plt.savefig(f"{path_}{save_name}")
 
-    # with open(f"{path_}_labels.txt", "w") as f:
-    #     f.write("X\tY\n")
-    #     for x_label, endpoint in zip(df[f'{xcolum}'], df[f'{ycolum}']):
-    #         f.write(f"{x_label}\t {endpoint}\n")
+    if export_ticks:
+        with open(f"{path_}_labels.txt", "w") as f:
+            f.write("X\tY\n")
+            for x_label, y_label in zip(xticks, df[f"{ycolum}"]):
+                f.write(f"{x_label}\t {y_label}\n")
 
     return fig, ax, plt

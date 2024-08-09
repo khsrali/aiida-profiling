@@ -27,7 +27,7 @@ For more detailed of bottle neck please have a look directly at the `_combined_s
 
 
 ### restapi
-![](results/performance_graphs/restapi.png)
+![](restapi/out/RESTapi.png)
 | Endpoint | Average Time per Call (ms) |
 | --- | --- |
 | 0 |  /api/v4/nodes |
